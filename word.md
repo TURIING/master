@@ -56,8 +56,6 @@
 | natural                    | adj.正常的，自然的|
 | native                     | adj.天生的，本国的，本地的   n.本地人，本国人                |
 | innate                     | adj.天生的        |
-| born | adj.天生的，注定的 |
-| inborn                     | adj.天生的，先天的|
 | inevitable             | adj.不可避免的    |
 | ignorance              | n.无知            |
 | indifference           | n.不关心，冷漠    |
@@ -79,8 +77,6 @@
 | a great deal of            | 大量的，许多的    |
 | a good deal of             | 在很大程度上，许多|
 | in large numbers           | 大量的            |
-| substance | n.物质，药物，本质 |
-| substantial            | adj.大量的        |
 | vast                   | adj.巨大的，辽阔的，大量的  |
 | fierce                     | adj.激烈的，凶猛的|
 | trunk                      | n.公路运输，卡车  |
@@ -133,8 +129,6 @@
 | shoulder                   | v.承担    n.肩膀  |
 | keep up                    | 维持，跟上           |
 | keep up with               | 跟上              |
-| line                       | n.线路，行业      |
-| linear | adj.直线的 |
 | theory                     | n.理论            |
 | theorize                   | v.推理，建立理论  |
 | subscribe to               | 同意...           |
@@ -356,7 +350,6 @@
 | inaccuracy                 | n.不准确          |
 | precise | adj.准确的 |
 | precision                  | n.精确度          |
-| alter                      | v.改变            |
 | altitude                   | n.高度，海拔      |
 | amateur                    | n.业余爱好者      |
 | ambulance                  | n.救护车          |
@@ -601,7 +594,6 @@
 | get sth done right         | 把某事做好        |
 | heal                       | v.治愈            |
 | move forward               | 推进、前进        |
-| reaction                   | n.反应            |
 | kick                       | v/n.踢            |
 | kick-start                 | v.开始、启动      |
 | kick the can down the road | 拖延，回避        |
@@ -688,6 +680,7 @@
 | correspond to              | 符合，与...一致，相当于	= be in correspondence to         |
 | terrestrial                | adj.地球的，陆地的|
 | compartment                | n.车厢，隔间      |
+| educate                   | v.教育，培养，训练|
 | educator | n.教师 |
 | educated                   | adj.受过教育的，有教养的  |
 | well-educated              | adj.受过良好教育的|
@@ -783,6 +776,7 @@
 | episode                    | n.片段，情节，一段经历    |
 | honor                      | v.表彰            |
 | dishonor                   | v.蒙羞，使丢脸    |
+| honorable                  | adj.可敬的；荣誉的，光荣的|
 | humiliate                  | v.羞辱，使丢脸    |
 | humiliated                 | adj.被羞辱的      |
 | humiliation                | n.羞辱，屈辱      |
@@ -897,7 +891,6 @@
 | cognitive                  | adj.认知的，认识的|
 | recognize                  | v.识别，意识到    |
 | recognition                | n.认识            |
-| a fraction of              | 一小部分          |
 | mind                       | n.大脑，精神      |
 | glimpse                    | v.瞥一眼          |
 | changing                   | n.变化            |
@@ -988,11 +981,9 @@
 | strongly                   | adv.强烈地        |
 | suffice                    | v.足够，使满足    |
 | sufficient                 | adj.足够的        |
-| hasten                     | v.加速            |
 | director                   | n.主任            |
 | chair                      | n.系主任    v.担任|
 | chairman                   | n.领导，董事长    |
-| prescribe                  | v.开药方          |
 | illegal                    | adj.违法的        |
 | homicide                   | n.谋杀            |
 | debate                     | v/n.辩论，争论    |
@@ -1155,7 +1146,6 @@
 | in the eyes of             | 在...看来         |
 | godlike                    | adj.上帝般的      |
 | be entitled to             | 有...资格         |
-| privilege                  | n.特权            |
 | infer                      | v.推断            |
 | strategy                   | n.策略            |
 | dawn                       | n.开始，开端，黎明|
@@ -1207,6 +1197,7 @@
 | laborsaving              | adj.节省劳动力的                             |
 | factory                  | n.工厂                                       |
 | hum                      | v.嗡嗡叫                                     |
+| rhythm                    | n.节奏，韵律|
 | the rhythm of            | ...的旋律                                    |
 | assembly                 | n.组装                                       |
 | politeness               | n.礼貌用语                                   |
@@ -1216,6 +1207,7 @@
 | tired                    | adj.老套的                                   |
 | thanks to                | 由于                                         |
 | continual                | adj.不断的                                   |
+| miniature                 | adj.微型的，小型的|
 | miniaturization          | n.微型化                                     |
 | electronic               | adj.电子的                                   |
 | electronics              | n.电子元件                                   |
@@ -1303,7 +1295,6 @@
 | hunt for                 | 寻找                                         |
 | seek                     | v.寻找，寻求                                 |
 | seek to                  | 寻求，致力于，设法                           |
-| generation               | n.代，辈                                     |
 | mythical                 | adj.神话般的                                 |
 | grow                     | v.种植                                       |
 | grow out                 | 改掉（坏习惯）                               |
@@ -1322,6 +1313,8 @@
 | refer to                 | 涉及，指的是                                 |
 | disorganized             | adj.缺乏条理的                               |
 | secretary                | n.秘书                                       |
+| alter                      | v.改变            |
+| alternate                 | v.交替，轮流   adj.交替的，轮流的|
 | alternative              | n.选择                                       |
 | alternatively            | adv.或者                                     |
 | want to                  | 需要，想要                                   |
@@ -1336,7 +1329,6 @@
 | sunny                    | adj.晴朗的                                   |
 | peaceful                 | adj.爱好和平的                               |
 | friendly                 | adj.友好的                                   |
-| in a line                | 排队                                         |
 | suddenly                 | adv.突然                                     |
 | rush                     | v.冲                                         |
 | gold rush                | 淘金热                                       |
@@ -1508,7 +1500,6 @@
 | elite                    | n.精英                                       |
 | elitism                  | n.精英主义                                   |
 | elitist                  | adj.精英主义的，上等的人/物                  |
-| reflect                  | v.反映                                       |
 | astonishing              | adj.惊人的                                   |
 | reportorial              | adj.报道的                                   |
 | but                      | 而是                                         |
@@ -1737,7 +1728,7 @@
 | weapon                   | n.武器                                       |
 | pound                    | n.英镑                                       |
 | policy                   | n.政策                                       |
-| overlook                 | v.看漏，忽略                                 |
+| overlook                 | v.看漏，忽略；俯瞰，眺望 |
 | overlooked               | adj.被忽略的                                 |
 | melt                     | v.融化                                       |
 | mercy                    | n.仁慈，宽恕                                 |
@@ -1786,6 +1777,7 @@
 | heroin                   | n.海洛因                                     |
 | hostile                  | adj.有敌意的                                 |
 | hostility                | n.敌意                                       |
+| hostage                   | n.人质|
 | mail                     | n.邮件  v.邮寄                               |
 | lucky                    | adj.幸运的                                   |
 | weird                    | adj.古怪的                                   |
@@ -1809,7 +1801,6 @@
 | oxygen                   | n.氧                                         |
 | drawer                   | n.抽屉                                       |
 | early                    | adj.早的，早期的，提早的                     |
-| exterior                 | adj.外部的  n.外观                           |
 | reminder                 | n.提示                                       |
 | sharp                    | adj.急剧的                                   |
 | keep a close watch on    | 密切关注                                     |
@@ -1997,8 +1988,8 @@
 | hot                      | adj.热的，热门的                             |
 | red-hot                  | adj.过热的（经济）                           |
 | folk                     | n.人们，民族   adj.民间的                    |
+| dealer                    | n.商人|
 | dealership               | n.经销商                                     |
-| outlet                   | n.折扣店，出口，发泄途径                     |
 | shopper                  | n.购物者                                     |
 | temper                   | v.使缓和，调节  n.脾气                       |
 | temperament              | n.性情，性格                                 |
@@ -2239,7 +2230,7 @@
 | coast                        | n.海岸        |
 | feasible                     | adj.可行的    |
 | shallow                      | adj.浅的      |
-| exhaust                      | v.耗尽，使筋疲力尽|
+| exhaust                      | v.耗尽，使筋疲力尽  n.废气，尾气|
 | exhaustive                   | adj.详尽的，彻底的|
 | ever since                   | 自从          |
 | fill in                      | 填写，填充    |
@@ -2259,7 +2250,6 @@
 | negligence                   | n.疏忽，忽视，失职|
 | negligible                   | adj.可以忽略的，微不足道的|
 | outcome                      | n.结果，后果，效果，成果  |
-| applicable                   | adj.适用的    |
 | lobby                        | v.游说  n.游说者，大厅，休息室|
 | stay out of                  | 不参与，置身于...之外 |
 | grave                        | n.坟墓        |
@@ -2407,8 +2397,6 @@
 | comply                       | v.顺从，遵守  |
 | liable                       | adj.有义务的，有责任的，可能的|
 | liability                    | n.责任，义务，负债|
-| distinct                     | adj.明显的，截然不同的|
-| distinction                  | n.区别，荣誉  |
 | interval                     | n.间隔，中场休息  |
 | erase                        | v.抹去，擦掉  |
 | torture                      | v.折磨        |
@@ -2437,8 +2425,6 @@
 | fit into                     | 融入          |
 | altogether                   | adv.总共，完全地  |
 | census                       | n.人口普查    |
-| foreign-born                 | adj.在国外出生的  |
-| native-born                  | adj.本国出生的|
 | around                       | prep.到处，各处，存在，绕开  |
 | superstar                    | n.超级明星    |
 | pocket                       | n.口袋，少量  |
@@ -2633,7 +2619,7 @@
 | telescope                    | n.望远镜      |
 | clarify                      | v.澄清，阐明  |
 | prefer                       | v.更喜欢，宁愿|
-| preference                   | n.偏好，喜爱  |
+| preference                   | n.偏好，喜爱；优先选择  |
 | calorie                      | n.卡路里      |
 | balloon                      | n.气球  v.膨胀，激增  |
 | pink                         | n.粉红色  adj.粉红色的|
@@ -2878,7 +2864,6 @@
 | preparedness                 | n.准备状态，预备状态  |
 | replicate                    | v.复制，重复  |
 | interplay                    | n/v.相互作用，相互影响|
-| anonymous                    | adj.匿名的    |
 | algorithm                    | n.算法        |
 | revolutionize                | v.彻底变革，彻底改变  |
 | healthcare                   | n.医疗保健    |
@@ -3010,7 +2995,7 @@
 | full-blown                   | adj.全面的    |
 | explanation                  | n.解释，说明  |
 | make clear                   | 解释          |
-| interpret                    | v.解释（为），说明|
+| interpret                    | v.解释（为），认为；说明|
 | interpretation               | n.解释        |
 | misinterpretation            | n.误解        |
 | balcony                      | n.阳台        |
@@ -3071,7 +3056,6 @@
 | confirm                      | v.证实，确认  |
 | confirmation                 | n.证实，确认  |
 | defect                       | n.缺点，缺陷  |
-| tame                         | adj.驯服的，乏味的      v.驯服，控制|
 | Harvard                      | n.哈佛大学    |
 | material                     | n.材料，原料；人才；  |
 | tutor                        | n.导师，家庭教师    v.指导，辅导|
@@ -3155,7 +3139,6 @@
 | at once                      | 同时；立刻，马上  |
 | adapt                        | v.适应；改编  |
 | adaptation                   | n.适应        |
-| objective                    | adj.客观的   n.目标   |
 | back-of-the-envelope         | adj.粗略的    |
 | tonne                        | n.公吨        |
 | ton                          | n.吨          |
@@ -3188,6 +3171,7 @@
 | in practice                  | 实际上        |
 | in theory                    | 理论上        |
 | global                       | adj.全球的    |
+| globally                      | adv.全球地|
 | globalization                | n.全球化      |
 | go into reverse              | 逆转，往相反的方向发展|
 | rock                         | n.岩石，摇滚乐   v.动摇   |
@@ -3354,7 +3338,7 @@
 | in excess                     | 过度地、过分      |
 | in excess of                  | 超过		=exceed  |
 | voracious                     | adj.贪婪的，贪吃的；渴望的|
-| endure                        | v.忍受；持久|
+| endure                        | v.忍受，忍耐；持久|
 | enduring                      | adj.持久的，不朽的|
 | endurance                     | n.耐力|
 | cut                           | v.切，削，剪，削减  n.切口，伤口|
@@ -3427,7 +3411,7 @@
 | comprehension                 | n.理解，领悟|
 | bacteria                      | n.细菌|
 | identify                      | v.识别，指明，指出，认同  |
-| identity                      | n.身份，一致，个性 |
+| identity                      | n.身份；一致；特征，个性 |
 | identical                     | adj.相同的        |
 | ship                          | n.船  v.船运，运送|
 | chef                          | n.主厨，厨师|
@@ -3677,7 +3661,7 @@
 | dedicate                      | v.奉献，致力于    |
 | dedicated                     | adj.专注的，专用的 |
 | dedicate to                   | 致力于            |
-| discipline                    | n.学科，纪律，训练|
+| discipline                    | n.学科；纪律，规定；训练|
 | muti-disciplinary             | adj.跨学科的|
 | tackle                        | v.处理，应对|
 | open-ended                    | adj.开放式的  |
@@ -3864,6 +3848,7 @@
 | necessity                     | n.必要（性），必需品 |
 | necessary                     | adj.必须的，必要的                           |
 | necessarily                   | adv.必然地，不可避免地|
+| not necessarily               | 不一定，未必|
 | avert                         | v.防止，避免|
 | worst-case                    | adj.最坏情况的|
 | aftermath                     | n.(不幸事件的)后果，创伤|
@@ -3994,3 +3979,73 @@
 | in addition                   | 另外          |
 | additive                      | n.添加物，添加剂  adj.添加的|
 | ardently                      | adj.热心的，热情的|
+| haze                          | n.雾|
+| generation                    | n.代，辈；产生|
+| smog                          | n.烟雾|
+| diesel                        | n.柴油|
+| wear out                      | 用坏，磨损；筋疲力尽，耗尽|
+| crown                         | n.皇冠；王室|
+| particle                      | n.微粒，粒子|
+| synonymous                    | adj.同义的|
+| anonymous                     | adj.匿名的    |
+| premature                     | adj.过早的；不成熟的，草率的|
+| hesitate                      | v.犹豫，踌躇|
+| hesitant                      | adj.犹豫的，踌躇的|
+| hesitation                    | n.犹豫，踌躇|
+| as far as sb be concerned     | 就某人而言，在某人看来|
+| privilege                     | n.特权；荣幸  v.给予特权，特殊对待            |
+| settle                        | v.定居；解决|
+| settled                       | adj.固定的，稳定的|
+| react                         | v.反应|
+| reaction                      | n.反应            |
+| reactor                       | n.核反应堆|
+| born                          | adj.天生的，注定的 |
+| inborn                        | adj.天生的，先天的|
+| foreign-born                  | adj.在国外出生的  |
+| native-born                   | adj.本国出生的|
+| be born with                  | 生而具有|
+| distinct                      | adj.明显的，截然不同的|
+| distinction                   | n.区别，荣誉  |
+| distinctive                   | adj.独特的，与众不同的|
+| refine                        | v.提炼，精炼；改进，完善|
+| internal                      | adj.内部的；国内的|
+| exterior                      | adj.外部的，外面的  n.外观                           |
+| toward                        | prep.朝，向；对于；为了|
+| line                          | n.线路，行业      |
+| linear                        | adj.直线的 |
+| in a line                     | 排队                                         |
+| in line with                  | 符合，与...一致|
+| go beyond                     | 超出，超越|
+| reflect                       | v.反射，反映；反省，思考|
+| reflect on                    | 考虑，思考|
+| hypocritical                  | adj.虚伪的，伪善的|
+| willpower                     | n.意志力，毅力|
+| embody                        | v.体现，包含|
+| liquid                        | n.液体  adj.液体的，液态的|
+| apply                         | v.申请；适用，应用|
+| applicable                    | adj.适用的    |
+| motion                        | n.运动，动作；提议|
+| diploma                       | n.文凭，学位证书|
+| contrast                      | v.对比，和...对照；截然不同，有明显差异  n.对照，对比|
+| object                        | n.物体；目的；对象  v.反对|
+| objection                     | n.反对，异议|
+| objective                     | adj.客观的   n.目标   |
+| substance                     | n.物质，药物，本质 |
+| substantial                   | adj.实质的，真实的；坚固的，结实的；大量的，巨大的        |
+| hasten                        | v.加速            |
+| hasty                         | adj.匆忙的，仓促的，草率的|
+| fraction                      | n.碎片，小部分|
+| a fraction of                 | 一小部分          |
+| owl                           | n.猫头鹰|
+| denote                        | v.表示，意味着|
+| startle                       | v.惊吓，使吃惊|
+| outlet                        | n.折扣店，出口，发泄途径                     |
+| inlet                         | n.水湾，小湾；进口，入口|
+| dictate                       | v.口述，听写；命令，支配   n.命令，指示|
+| lame                          | adj.瘸的；站不住脚的，无说服力的|
+| tame                          | adj.驯服的，乏味的      v.驯服，控制|
+| pants                         | n.长裤|
+| tag                           | n.标签  v.贴标签于|
+| duration                      | n.持续时间，期间|
+| shear                         | v.剪|
+| prescribe                     | v.开药方；指示，规定          |
