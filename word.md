@@ -118,7 +118,7 @@
 | on the grounds that        | 理由是            |
 | be grounded in             | 以...为基础       |
 | have the option of         | 可以选择...       |
-| form                       | n.方式            |
+| form                       | n.方式，形式；表格；  v.形成            |
 | method                     | n.方式，方法      |
 | way                        | adv.大大的，远远的  n.方式|
 | leave                      | v.使得            |
@@ -896,10 +896,6 @@
 | changing                   | n.变化            |
 | unchanging                 | adj.没有变化的    |
 | dynamic                    | adj.不断变化的    |
-| immediate | adj.立即的，直接的 |
-| immediately                | adv.立即          |
-| instantaneously            | adv.立即          |
-| instantly                  | adv.立即，马上|   
 | be linked to               | 与...有关         |
 | be relevant to             | 与...有关         |
 | irrelevant                 | adj.不相关的      |
@@ -1021,7 +1017,6 @@
 | key                        | adj.关键的   n.钥匙  |
 | key in                     | 键入              |
 | play a role                | 起作用            |
-| initiative                 | n.计划，倡议      |
 | extent                     | n.程度            |
 | to the extent that         | 到...程度以致...  |
 | constitute                 | v.被视为，组成，构成 |
@@ -1074,7 +1069,7 @@
 | strengthening              | adj.强势的        |
 | grip                       | v.掌控，控制    n.控制力  |
 | in the grips of            | 受到...的控制     |
-| grab                       | v.抓住，夺得      |
+| grab                       | v.抢先，抢占；夺取      |
 | grasp                      | v/n.抓住，理解，领悟 |
 | nothern hemisphere         | 北半球            |
 | four-fifths                | 五分之四          |
@@ -1109,12 +1104,10 @@
 | spark                      | n.火花  v.引起，导致 |
 | sparkle                    | v.发光，闪耀      |
 | significant                | adj.重大的        |
+| significantly                 | adv.显著地，明显地|
 | insignificant              | adj.无关紧要的，无意义的  |
 | significance               | n.意义，重要性    |
 | keep down                  | 控制，抑制        |
-| come down                  | 下降              |
-| come down to               | 可归结为...；下降到...|
-| come out                   | 出来，出现，公开表明 |
 | supreme                    | adj.最高的        |
 | court                      | n.法院            |
 | courtesy                   | n.礼貌            |
@@ -1244,6 +1237,7 @@
 | optimism                 | n.乐观                                       |
 | pessimistic              | adj.悲观的                                   |
 | appear                   | v.似乎，出现                                 |
+| appear to                 | 似乎|
 | disappear                | v.消失，灭绝，失踪                           |
 | vanish                   | v.消失，灭绝                                 |
 | apparent                 | adj.明显的，显然的，表面上的                 |
@@ -1263,9 +1257,7 @@
 | suppress                 | v.抑制                                       |
 | materialistic            | adj.物质的                                   |
 | lifestyle                | n.生活方式                                   |
-| voluntary                | adj.自愿的                                   |
 | vulgar                   | adj.庸俗的，粗俗的                           |
-| vulnerable               | adj.脆弱的，易受伤害的，易受影响的           |
 | susceptible              | adj.易受影响的                               |
 | analogy                  | n.类比，类推，相似之处                       |
 | analogous                | adj.相似的                                   |
@@ -1293,7 +1285,7 @@
 | look for                 | 寻找                                         |
 | search for               | 寻找                                         |
 | hunt for                 | 寻找                                         |
-| seek                     | v.寻找，寻求                                 |
+| seek                     | v.寻找，寻求  (sought 过分)                                 |
 | seek to                  | 寻求，致力于，设法                           |
 | mythical                 | adj.神话般的                                 |
 | grow                     | v.种植                                       |
@@ -1551,8 +1543,6 @@
 | impoverished             | adj.贫困的                                   |
 | enormous                 | adj.巨大的                                   |
 | outdated                 | adj.过时的                                   |
-| colony                   | n.殖民地                                     |
-| anti-colonial            | adj.反殖民主义的                             |
 | respect                  | v.尊重，尊敬，遵从                           |
 | respective               | adj.分别的，各自的                           |
 | respectively             | adv.分别地，各自地                           |
@@ -1647,8 +1637,6 @@
 | participant              | n.参加者，参与者                             |
 | participate              | v.参加，参与                                 |
 | participate in           | 参加                                         |
-| allowance                | n.补贴，津贴                                 |
-| allow for                | 有助于                                       |
 | help to                  | 有助于                                       |
 | optional                 | adj.可选择的                                 |
 | small wonder             | 不足为奇                                     |
@@ -1967,7 +1955,7 @@
 | estate                   | n.房地产                                     |
 | broker                   | n.经纪人                                     |
 | recovery                 | n.恢复，复苏                                 |
-| horizon                  | n.地平线，眼界，视野                         |
+| horizon                  | n.地平线；眼界，视野                         |
 | on the horizon           | 即将来临的                                   |
 | remedy                   | n.疗法，解决办法   v.治疗，纠正              |
 | fasten                   | v.使固定                                     |
@@ -1981,8 +1969,6 @@
 | show up                  | 露面，出现                                   |
 | soften                   | v.软化，减轻                                 |
 | softening economy        | 疲软的经济                                   |
-| indicator                | n.指标                                       |
-| indice                   | n.指标                                       |
 | can (not) do without     | （不）能够没有                               |
 | department store         | 百货商场                                     |
 | hot                      | adj.热的，热门的                             |
@@ -2479,7 +2465,6 @@
 | in the early days            | 早期，过去    |
 | bait                         | n.鱼饵，诱惑物   v.下诱饵 |
 | furthermore                  | adv.此外，而且|
-| baseline                     | n.基准，底线  |
 | marine                       | adj.海的，与海有关的  |
 | controversial                | adj.有争议的  |
 | aircraft                     | n.飞机，飞行器|
@@ -2752,7 +2737,6 @@
 | outwardly                    | adv.表面上    |
 | consistent                   | adj.一致的，持续的|
 | consistently                 | adv.一致地，持续地|
-| ill-equipped                 | adj.装备不良的，能力欠缺的|
 | expertise                    | n.专业知识，专业技能  |
 | community                    | n.社区，团体，群落，界，社会 |
 | authority                    | n.政府        |
@@ -2832,7 +2816,6 @@
 | environmentalist             | n.环保主义者  |
 | environmentalism             | n.环境保护主义|
 | endanger                     | v.危害，危及  |
-| volunteer                    | n.志愿者      |
 | routine                      | n.常规，惯例  adj.常规的，平淡乏味的   |
 | courteous                    | adj.有礼貌的  |
 | mark                         | n.记号  v.标记，纪念（节日，事件）      |
@@ -2954,7 +2937,6 @@
 | several                      | n.几个，数人  |
 | severe                       | adj.严重的    |
 | acute                        | adj.严重的，（疾病）急性的|
-| come to                      | 逐渐，突然想起（提到）|
 | arm                          | v.武装   n.手臂；武器；（职能）部门                     |
 | armoury                      | n.兵工厂、军械库  |
 | go public                    | 上市          |
@@ -2983,7 +2965,6 @@
 | more or less                 | 或多或少      |
 | a brush with sth             | 接触；经历    |
 | move on                      | 继续前进      |
-| track                        | n.轨道        |
 | conscious                    | adj.有意识的  |
 | be conscious of              | 意识到...     |
 | subconscious                 | adj.潜意识的   n.潜意识   |
@@ -3109,7 +3090,6 @@
 | thin                         | adj.瘦的，薄的|
 | soak up                      | 吸收（气体等）；享受，感受（气氛）|
 | portable                     | adj.便携式的，手提的  |
-| initial                      | adj.最初的    n.首字母|
 | stunning                     | adj.令人震惊的，极好的|
 | do away with                 | 清除，终止，废除  |
 | thrust                       | n.要点，要旨  |
@@ -3136,7 +3116,6 @@
 | take a longer view           | 从更长远角度来看  |
 | multilateral                 | adj.多边的，多国的|
 | assault                      | v&n. 攻击     |
-| at once                      | 同时；立刻，马上  |
 | adapt                        | v.适应；改编  |
 | adaptation                   | n.适应        |
 | back-of-the-envelope         | adj.粗略的    |
@@ -3278,8 +3257,6 @@
 | gloomy                        | adj.忧郁的，沮丧的|
 | around the corner             | 即将来临|
 | have a hold on                | 对...有影响|
-| ambition                      | n.抱负|
-| ambitious                     | adj.有野心的，有雄心的|
 | pursuit                       | n.追求；职业|
 | in the midst of               | 在...期间     |
 | in the middle of              | 在...期间     |
@@ -3340,7 +3317,7 @@
 | voracious                     | adj.贪婪的，贪吃的；渴望的|
 | endure                        | v.忍受，忍耐；持久|
 | enduring                      | adj.持久的，不朽的|
-| endurance                     | n.耐力|
+| endurance                     | n.忍耐力|
 | cut                           | v.切，削，剪，削减  n.切口，伤口|
 | cut in                        | 插入          |
 | cut down                      | 减少|
@@ -3549,8 +3526,6 @@
 | systematic                    | adj.蓄意的        |
 | systemic                      | adj.系统的    |
 | off                           | prep.从...离开，从...去掉    off the menu 弃于菜单之外 |
-| nutrition                     | n.营养|
-| nutritionist                  | n.营养学家|
 | shoot up                      | 猛增|
 | birthplace                    | n.出生地，发源地  |
 | give birth to                 | 衍生，产生        |
@@ -3626,7 +3601,6 @@
 | neither...nor...              | 既不...也不...|
 | blow                          | n&v.吹（风）|
 | be accompanied by             | 伴随；随着|
-| as many + n                   | 许多；（与...）一样多|
 | downsize                      | v.缩小规模；裁员|
 | complexity                    | n.复杂性|
 | head out                      | 出发，启程|
@@ -4049,3 +4023,75 @@
 | duration                      | n.持续时间，期间|
 | shear                         | v.剪|
 | prescribe                     | v.开药方；指示，规定          |
+| grocer                        | n.食品杂货商|
+| grocery                       | n.食品杂货店|
+| come to                       | 逐渐，突然想起（提到）|
+| come to mind                  | 想起|
+| come down                     | 下降              |
+| come down to                  | 可归结为...；下降到...|
+| come out                      | 出来，出现，公开表明 |
+| come in                       | 进来；有（某几种形式）|
+| powder                        | n.粉末|
+| shake                         | v.摇动，震动  n.摇动；奶昔|
+| pharma                        | n.制药公司|
+| pharmacy                      | n.药店；制药业|
+| track                         | n.轨道        |
+| be on track to                | 有望...|
+| nutrient                      | n.营养物  adj.营养的|
+| nutrition                     | n.营养|
+| nutritionist                  | n.营养学家|
+| allowance                     | n.补贴，津贴；限额，许可量                                 |
+| allow for                     | 有助于                                       |
+| warrant                       | n.正当理由；许可证，搜查令   v.保证，担保；使...有必要|
+| occasion                      | n.场合；时机，机会  v.导致，引起|
+| occasional                    | adj.偶然的，临时的|
+| as many + n                   | 许多；（与...）一样多|
+| as much as                    | 和...一样多；尽管（句首）|
+| overdo                        | v.使...过度；过多使用|
+| indicate                      | v.指示，表明|
+| indication                    | n.指示；迹象|
+| indicator                     | n.指标                                       |
+| indice                        | n.指标                                       |
+| kidney                        | n.肾|
+| baseline                      | n.基准，底线  |
+| bottom line                   | 底线，最重要的因素|
+| malfunction                   | n.故障，失灵|
+| spoilt                        | adj.宠坏的，损坏的|
+| unspoilt                      | adj.未受破坏的，天然的|
+| Antarctic                     | adj.南极的|
+| Antarctica                    | n.南极|
+| wilderness                    | n.荒野，荒原|
+| vicinity                      | n.附近，邻近地区|
+| colony                        | n.殖民地，（动物）聚居地      |
+| anti-colonial                 | adj.反殖民主义的                             |
+| whale                         | n.鲸|
+| sanctuary                     | n.避难所|
+| volunteer                     | n.志愿者      |
+| voluntary                     | adj.自愿的                                   |
+| voluntarily                   | adv.自愿地；主动地|
+| ongoing                       | adj.正在进行的|
+| dialogue                      | n.对话，对白|
+| refrain                       | v.克制，抑制；避免|
+| vulnerable                    | adj.脆弱的，易受伤害的，易受影响的           |
+| vulnerability                 | n.脆弱性|
+| initiative                    | n.计划，倡议      |
+| initial                       | adj.最初的    n.首字母|
+| initiate                      | v.开创，发起|
+| initiation                    | n.开始，创始|
+| initiator                     | n.创始人，发起人|
+| mediate                       | v.调停，调解（问题，争端）|
+| immediate                     | adj.立即的，直接的 |
+| immediately                   | adv.立即          |
+| instantaneously               | adv.立即          |
+| instantly                     | adv.立即，马上|   
+| alleviate                     | v.减轻，缓解|
+| at once                       | 同时；立刻，马上  |
+| at once ... and ...           | 既...又...｜
+| equip                         | v.装备，配备；使有能力|
+| ill-equipped                  | adj.装备不良的，能力欠缺的|
+| ambition                      | n.抱负|
+| ambitious                     | adj.有野心的，有雄心的；费力的，艰巨的|
+| trip                          | n&v.旅行|
+| discrepancy                   | n.差异，矛盾|
+| discrepant                    | adj.有差异的，不一致的|
+| nine out of ten               | 十个中有九个，十分之九|
