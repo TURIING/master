@@ -236,8 +236,8 @@
 | fantasy                       | n.想象，幻想|
 | fantastic                     | adj.奇异的，奇妙的；极好的|
 | comply                        | v.顺从，遵守  |
-| comply with                   | 服从，遵守；与...一致|
-| dawn                          | n.开始，开端，黎明|
+| comply with                   | 顺从，遵守；与...一致|
+| dawn                          | n.开始，开端；黎明|
 | dawn on                       | 渐渐明白|
 | sense                         | n.感觉，知觉；意义  v.意识到，感觉到|
 | nosense                       | n.胡说，废话  |
@@ -269,7 +269,7 @@
 | split-second                  | adj.分秒必争的；瞬间的|
 | stroke                        | n.中风|
 | in-person                     | adj.现场的，面对面的|
-| dead                          | adj.死的，萧条的，过时的，失效的   adv.完全地，绝对地        |
+| dead                          | adj.死的；萧条的；过时的，失效的   adv.完全地，绝对地        |
 | dread                         | v/n.害怕，畏惧    |
 | dreadful                      | adj.可怕的，令人畏惧的        |
 | glow                          | n.光   v.发光，发热|
@@ -282,7 +282,7 @@
 | take effort                   | 需要付出努力；起作用|
 | parallel                      | adj.相似的；平行的  n.类似的事物             |
 | unparalleled                  | adj.无与伦比的，前所未有的|
-| scale                         | n.规模，等级  |
+| scale                         | n.规模；等级  |
 | scale back                    | 缩减（规模）  |
 | upscale                       | adj.高档的                                   |
 | downscale                     | v.缩减...的规模，降低档次                    |
@@ -298,19 +298,19 @@
 | treat                         | v.治疗；处理；对待，款待  |
 | retreat                       | v&n. 撤退；衰退     |
 | ill-treat                     | v.虐待，不公平对待|
-| treatment                     | n.治疗方法；处理，对待    |
+| treatment                     | n.治疗方法；处理；对待    |
 | undertreatment                | n.处理不足    |
-| loss                          | n.损失，丢失，丧失|
+| loss                          | n.损失；丢失；丧失|
 | at a loss                     | 困惑，不知所措|
 | fade                          | v.褪色；衰减，消失|
 | fading                        | adj.日渐衰退的|
 | shrink                        | v.收缩，退缩  shrunk|
-| vanish                        | v.消失，灭绝                                 |
+| vanish                        | v.消失；灭绝                                 |
 | in the face of                | 在...面前|
 | fly in the face of ...        | 公然违背...|
-| textile                       | n.纺织品，纺织业  |
-| sweep                         | v.横扫，打扫                                 |
-| sweep into                    | 横扫，涌入|
+| textile                       | n.纺织品；纺织业  |
+| sweep                         | v.横扫；打扫                                 |
+| sweep into                    | 横扫；涌入|
 | on the ropes                  | 命悬一线，岌岌可危|
 | as though                     | 仿佛，似乎|
 | casual                        | adj.随意的，偶然的|
@@ -322,16 +322,16 @@
 | take action                   | 采取行动          |
 | take measure (to do)          | 采取措施          |
 | get moving ( to do )          | 采取行动          |
-| take out                      | 采取，拿出        |
+| take out                      | 采取；拿出        |
 | take in                       | 参观（风景）；吸收；接受；欺骗      |
 | take over                     | 接管，取代|
 | take to sth/doing sth         | 开始从事          |
-| business                      | n.企业，生意                                 |
+| business                      | n.企业生意                                 |
 | businessman                   | n.商人                                       |
 | do business                   | 做生意，商业经营|
 | shortly                       | adv.立刻，不久|
 | inquire                       | v.询问，调查|
-| inquiry                       | n.调查，询问|
+| inquiry                       | n.询问，调查|
 | inquisitive                   | adj.好奇的    |
 | inquisitiveness               | n.好奇心      |
 | sensate                       | adj.感官的，感知的|
