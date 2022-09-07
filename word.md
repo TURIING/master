@@ -18,9 +18,9 @@
 | catch                         | v.捕捉；理解 |
 | catch up (to)                 | 追上，赶上|
 | sphere                        | n.球体；领域|
-| category                      | n.种类、类别      |
+| category                      | n.种类，类别      |
 | anxiety disorder              | 焦虑症|
-| response                      | n.响应、反应；答复；应对措施 |
+| response                      | n.响应，反应；答复；应对措施 |
 | in response to                | 对...做出反应；由于 |
 | respond                       | v.应对；回复，回应 |
 | respondent                    | n.回答者，受访者；被告 |
@@ -239,10 +239,6 @@
 | comply with                   | 顺从，遵守；与...一致|
 | dawn                          | n.开始，开端；黎明|
 | dawn on                       | 渐渐明白|
-| sense                         | n.感觉，知觉；意义  v.意识到，感觉到|
-| nosense                       | n.胡说，废话  |
-| consensus                     | n.一致，共识    |
-| in a sense = in one sense     | 在某种意义上|
 | pull sb together              | 使某人振作起来|
 | happen to be                  | 碰巧，刚好|
 | over the years                | 多年来，这些年来|
@@ -324,6 +320,7 @@
 | get moving ( to do )          | 采取行动          |
 | take out                      | 采取；拿出        |
 | take in                       | 参观（风景）；吸收；接受；欺骗      |
+| take down                     | 拆卸；摧毁|
 | take over                     | 接管，取代|
 | take to sth/doing sth         | 开始从事          |
 | business                      | n.企业生意                                 |
@@ -407,6 +404,7 @@
 | on the chance of/that         | 也许可能，希望能够|
 | make a difference             | 有影响，起（重要）作用，区别对待                        |
 | make no difference            | 没有影响，没有差别|
+| vary                          | v.变化；使多样化|
 | variety                       | n.多样化，不同种类|
 | various                       | adj.各种各样的，不同的|
 | variable                      | n.变量|
@@ -434,7 +432,7 @@
 | take advantage of             | 利用              |
 | diminish                      | v.减少，变小|
 | grant                         | n.津贴，拨款	v.授予，同意  |
-| giant                         | n.巨人、伟人；巨头	adj.巨大的，伟大的                     |
+| giant                         | n.巨人，伟人；巨头	adj.巨大的，伟大的                     |
 | grand                         | adj.壮丽的，宏伟的，巨大的|
 | compare with                  | 与...相比                                    |
 | compare to                    | 与...相比|
@@ -481,7 +479,7 @@
 | move away                     | 摆脱              |
 | move on                       | 继续前进      |
 | move... to ...                | 搬到，将...变成...|
-| move forward                  | 推进、前进        |
+| move forward                  | 推进，前进        |
 | movement                      | n.运动                                       |
 | attain                        | v.达到（水平）；获得|
 | advisable                     | adj.可取的，明智的                           |
@@ -648,8 +646,8 @@
 | endure                        | v.忍受，忍耐；持久|
 | enduring                      | adj.持久的，不朽的|
 | endurance                     | n.忍耐力|
-| center/centre                 | n.中心、中央      |
-| central                       | adj.中心的、核心的|
+| center/centre                 | n.中心，中央      |
+| central                       | adj.中心的，核心的|
 | be central to                 | 对...很重要，是...的核心  |
 | centralize                    | v.集中，使中心化|
 | centralization                | n.集中，集中化|
@@ -710,10 +708,6 @@
 | informally | adv.非正式地 |
 | precious               | adj.珍贵的        |
 | ember                      | n.火种            |
-| call                       | v.把...称为       |
-| call on                    | 呼吁、号召；拜访，访问  |
-| call up                    | 使想起            |
-| recall                 | v.回忆起，召回    |
 | warn of                    | 发出关于...的警告 |
 | warn against               | 对...作出警告     |
 | misled                 | adj.被误导的      |
@@ -812,9 +806,6 @@
 | marketplace                | n.市场            |
 | workplace | n.工作场所，职场 |
 | frequent                 | adj.频繁的    |
-| represent                  | v.代表            |
-| misrepresent               | v.歪曲，曲解      |
-| representative             | n.代表，代理人   adj.有代表性的     |
 | soon                       | adv.很快，不久    |
 | a round of                 | 一轮...           |
 | on the whole | 大体上 |
@@ -851,15 +842,11 @@
 | knowingly                  | adv.故意地        |
 | deliberately               | adv.故意地        |
 | ride                       | v.骑，乘坐        |
-| close                      | adj.接近的        |
-| be close to                | 接近，靠近        |
-| closed                     | adj.关闭的，封闭的|
-| closely                    | adv.紧密地（联系），仔细地，亲近地  |
 | hurricane                  | n.飓风            |
 | egregious                  | adj.极坏的，过分的|
 | hoax                       | n.骗局，恶作剧    |
 | pattern                    | n.模式，方式，图案|
-| judge                      | v.判断、评价    n.法官    |
+| judge                      | v.判断，评价    n.法官    |
 | judgement                  | n.审判，判决      |
 | message                    | n.信息            |
 | messenger                  | n.发信息的人      |
@@ -893,7 +880,7 @@
 | sociologist                | n.社会学家        |
 | meet                       | v.满足，符合，遇见，迎接  |
 | meeting                    | n.会议            |
-| ramify                     | v.使分支、使分叉  |
+| ramify                     | v.使分支，使分叉  |
 | compound                   | n.混合物	v.混合，恶化  |
 | spiral                     | n.螺旋	v.螺旋上升 |
 | spiraling                  | adj.螺旋上升的    |
@@ -915,7 +902,6 @@
 | fester                     | v.溃烂，化脓，恶化|
 | calamity                   | n.灾难            |
 | catastrophe                | n.灾难            |
-| commit                     | v.犯罪、犯错；承诺；致力于|
 | county                     | n.县              |
 | plough                     | v.梨，耕，费力地做...|
 | squeeze                    | v.挤，压榨	n.压榨，减少|
@@ -928,16 +914,16 @@
 | escape from                | 逃离，摆脱        |
 | escape from class          | 逃课              |
 | drive away                 | 赶走              |
-| emerge                     | v.出现、摆脱|
+| emerge                     | v.出现，摆脱|
 | emerging                   | adj.新兴的        |
-| emergence                  | n.出现、兴起      |
+| emergence                  | n.出现，兴起      |
 | emergency                  | n.紧急情况，突发事件	adj.紧急的  |
 | lift                       | n.电梯		v.举起，提起|
 | lift sb out of poverty     | 脱贫              |
 | zoo                        | n.动物园          |
-| zone                       | n.地区、区域      |
+| zone                       | n.地区，区域      |
 | zebra                      | n.斑马            |
-| yell                       | v.大叫、呼喊      |
+| yell                       | v.大叫，呼喊      |
 | wound                      | n.伤口	v.伤害  |
 | wrist                      | n.手腕            |
 | worthy                     | adj.值得的，值得尊敬的    |
@@ -1001,14 +987,14 @@
 | energetic                  | adj.精力充沛的，充满活力的|
 | augment                    | v.扩大，增加，提高|
 | enlarge                    | v.扩大，放大      |
-| drawback                   | n.缺点、不利条件、障碍    |
+| drawback                   | n.缺点，不利条件，障碍    |
 | curiosity                  | n.好奇心  |
 | despair                    | n.绝望            |
 | in despair                 | 绝望地            |
 | candidate                  | n.候选人，求职者  |
 | smooth                     | adj.光滑的，顺利的|
-| smell                      | n.气味，嗅觉	v.嗅、闻  |
-| select                     | v.选择，挑选	adj.精选的、优等的        |
+| smell                      | n.气味，嗅觉	v.嗅，闻  |
+| select                     | v.选择，挑选	adj.精选的，优等的        |
 | selection                  | n.选择，挑选            |
 | elect                      | v.选举，选择      |
 | election                   | n.选举            |
@@ -1047,17 +1033,17 @@
 | heightened                 | adj.极大的        |
 | enhance                    | v.提高，增强      |
 | hearing                    | n.听力            |
-| highlight                  | v.强调、突出      |
+| highlight                  | v.强调，突出      |
 | spotlight                  | v.突出，强调   n.焦点|
 | hijack                     | v.劫持            |
 | department                 | n.部门，系        |
 | creative                   | adj.创造性的，有创造力的  |
 | one day                    | （将来）有一天    |
-| presume                    | v.假设、假定      |
-| presumption                | n.假设、假定      |
+| presume                    | v.假设，假定      |
+| presumption                | n.假设，假定      |
 | presumptively              | adv.推定地，假设地|
-| assume                     | v.假设、猜想，认为，承担（责任）    |
-| assumption                 | n.假设、猜想      |
+| assume                     | v.假设，猜想，认为，承担（责任）    |
+| assumption                 | n.假设，猜想      |
 | argu                       | v.表明，主张，认为|
 | argument                   | n.论点，争论      |
 | arguably | adv.可论证地，可以认为 |
@@ -1075,7 +1061,7 @@
 | mount                      | v.增加，上升      |
 | mounting                   | adj.越来越多的    |
 | be the case                | 情况如此			eg: this not be the case 	情况并非如此 |
-| worsen                     | v.恶化、加剧      |
+| worsen                     | v.恶化，加剧      |
 | exacerbate                 | v.使加剧，恶化    |
 | stripe                     | n.类型，类别，条纹|
 | strip                      | v.剥夺，脱（衣服）  n.长条|
@@ -1096,8 +1082,8 @@
 | today                      | adv.如今，当今    |
 | stake                      | n.赌注，股份	v.拿...冒险         |
 | stakeholder                | n.利益相关者      |
-| at stake                   | 在危险中、在危急关头 |
-| at risk                    | 处境危险、在危险中|
+| at stake                   | 在危险中，在危急关头 |
+| at risk                    | 处境危险，在危险中|
 | put ... at risk            | 使...处于危险境地 |
 | risky | adj.危险的 |
 | rightly / rightfully so    | 理应如此          |
@@ -1105,13 +1091,13 @@
 | not be far behind          | 不远了，即将来临  |
 | get behind                 | 支持，落后        |
 | shabby                     | adj.破旧的，卑鄙的|
-| comparison                 | n.比较、对比      |
+| comparison                 | n.比较，对比      |
 | in comparison              | 相比之下          |
 | condemn                    | v.谴责，定罪，使陷入（某不好的境地）|
-| workaday                   | adj.普通的、平常的|
+| workaday                   | adj.普通的，平常的|
 | workday                    | n.工作日          |
-| mend                       | v.修理、修补，改善、改进  |
-| revamp                     | v/n.修改、改进、翻新 |
+| mend                       | v.修理，修补，改善，改进  |
+| revamp                     | v/n.修改，改进，翻新 |
 | rivive                     | v.复兴，恢复，复苏|
 | rivival                    | n.复苏，复兴      |
 | good                       | adj.数量多的      |
@@ -1134,9 +1120,9 @@
 | earmark                    | v.指定...的用途   |
 | relief | n.减轻，解脱 |
 | relieve | v.减轻 |
-| mitigate                   | v.减轻、缓和      |
-| mitigation                 | n.减轻、缓和      |
-| mitigant                   | adj.减轻的、缓和的|
+| mitigate                   | v.减轻，缓和      |
+| mitigation                 | n.减轻，缓和      |
+| mitigant                   | adj.减轻的，缓和的|
 | structure                  | n.结构，建筑物	v.构造  |
 | unstructured | adj.无组织的，松散的 |
 | -prone                     | adj.易发生某种情况的 |
@@ -1154,13 +1140,13 @@
 | follow one's lead          | 以...为榜样       |
 | matching                   | n.匹配	adj.匹配的 |
 | in this case               | 在这种情况下，在这个案例中|
-| well-to-do                 | adj.富裕的、有钱的|
+| well-to-do                 | adj.富裕的，有钱的|
 | in the wake of             | 随...之后而来     |
 | allergy                    | n.过敏            |
 | allergic                   | adj.过敏的，反感的|
-| turn around                | 扭转、好转（局势、状况）  |
+| turn around                | 扭转，好转（局势，状况）  |
 | shell                      | n.贝壳	v.剥壳，支付    |
-| shell out                  | 付款、支付        |
+| shell out                  | 付款，支付        |
 | shellfish                  | n.贝类            |
 | dairy                      | n.乳制品	adj.乳制品的  |
 | admit | v.承认，录取，允许进入 |
@@ -1176,20 +1162,20 @@
 | democratize                | v.使民主化，使大众化 |
 | republic                   | n.共和国，共和政体|
 | republican                 | adj.共和国的，共和党的	n.共和党人|
-| shun                       | v.避开、避免      |
+| shun                       | v.避开，避免      |
 | vow                        | n.誓言	v.发誓  |
-| sentiment                  | n.感情、情绪      |
+| sentiment                  | n.感情，情绪      |
 | get sth done right         | 把某事做好        |
 | heal                       | v.治愈            |
 | kick                       | v/n.踢            |
-| kick-start                 | v.开始、启动      |
+| kick-start                 | v.开始，启动      |
 | kick the can down the road | 拖延，回避        |
-| spawn                      | n.卵	v.产卵，产生、引起|
+| spawn                      | n.卵	v.产卵，产生，引起|
 | paint                      | n.油漆	v.绘画，描绘    |
 | intricate                  | adj.复杂的        |
 | in subtance                | 本质上，基本上    |
 | attempt to                 | 试图，企图        |
-| in an attempt to           | 试图、企图        |
+| in an attempt to           | 试图，企图        |
 | in order to                | 为了...           |
 | sake                          | n.缘故，理由|
 | for the sake of            | 为了...           |
@@ -1201,22 +1187,22 @@
 | stubborn                   | adj.顽固的，难对付的 |
 | get the bottom of          | 弄清...           |
 | in this way                | 用这种方式，这样...  |
-| in the first place         | 首先、一开始      |
+| in the first place         | 首先，一开始      |
 | at first                   | 一开始            |
-| dirt                       | n.污垢、泥土      |
+| dirt                       | n.污垢，泥土      |
 | dry                        | adj.干燥的，枯燥乏味的    |
 | childhood                  | n.童年            |
 | prevent                    | v.预防，阻止      |
 | prevention                 | n.预防，阻止      |
 | prevent ... from doing     | 阻止...做某事     |
 | preventative               | adj.预防性的      |
-| consume                    | v.消费，消耗（燃料、时间、食物）    |
+| consume                    | v.消费，消耗（燃料，时间，食物）    |
 | consumption | n.消耗（量） |
 | consumerism                | n.消费主义        |
 | opt to do                  | 选择做...         |
 | opt for sth                | 选择...           |
 | take shape                 | 形成，成形        |
-| step in                    | 介入、干预        |
+| step in                    | 介入，干预        |
 | step out                   | 退出              |
 | current                    | adj.当前的        |
 | currently                  | adv.目前          |
@@ -1238,9 +1224,9 @@
 | endeavour                  | v/n.努力，尽力    |
 | be on the same page        | 达成共识          |
 | be / come up to scratch    | 符合要求          |
-| ambiguous                  | adj.摸棱两可的、含糊不清的|
-| equivocal                  | adj.摸棱两可的、不明确的  |
-| inequivocal                | adj.不含糊的、明确的 |
+| ambiguous                  | adj.摸棱两可的，含糊不清的|
+| equivocal                  | adj.摸棱两可的，不明确的  |
+| inequivocal                | adj.不含糊的，明确的 |
 | racist                     | adj.种族主义的，种族歧视的	n.种族主义者                   |
 | racism | n.种族主义，种族歧视 |
 | sexism | n.姓别歧视 |
@@ -1258,7 +1244,7 @@
 | hierarchical               | adj.等级的，分等级的，分层次的      |
 | taxonomy                   | n.分类            |
 | taxonomise                 | v.分类            |
-| demolish                   | v.拆除、摧毁（建筑），推翻（观点）  |
+| demolish                   | v.拆除，摧毁（建筑），推翻（观点）  |
 | anatomy                    | n.解剖，解剖学    |
 | terrestrial                | adj.地球的，陆地的|
 | compartment                | n.车厢，隔间      |
@@ -1269,12 +1255,12 @@
 | well-worded                | adj.措辞得当的    |
 | targeted                   | adj.有针对性的    |
 | soil                       | n.土壤            |
-| proper                     | adj.合适的、恰当的|
-| property                   | n.财产，性质、特性|
+| proper                     | adj.合适的，恰当的|
+| property                   | n.财产，性质，特性|
 | acknowledge                | v.承认，确认      |
 | knowledgeable              | adj.博学的        |
 | be composed of             | 由...组成         |
-| leak                       | v/n. 渗漏、泄露   |
+| leak                       | v/n. 渗漏，泄露   |
 | totally                    | adv.完全地        |
 | loud                       | adj.大声的，吵闹的|
 | aloud                      | adv.大声地        |
@@ -1318,8 +1304,6 @@
 | vain                       | adj.徒劳的，自负的，虚荣的|
 | take a vain pride in       | 盲目自信          |
 | count on                   | 依赖，依靠        |
-| receive                    | v.接收，收到      |
-| receipt                    | n.收据            |
 | re-make                    | v.改变，重塑      |
 | reshape                    | v.改造，重塑      |
 | mold                       | v.形成            |
@@ -1379,7 +1363,6 @@
 | perplex                    | v.困惑            |
 | harm                       | v.伤害            |
 | hurt                       | v.损害            |
-| damage                     | v.损害，毁坏      |
 | ruin                       | v.毁灭            |
 | grandmotherly              | adj.（似）祖母的  |
 | booth                      | n.摊位            |
@@ -1392,7 +1375,7 @@
 | vaccination                | n.疫苗接种        |
 | assure                     | v.弄清，查明      |
 | have to                    | 不得不，必须      |
-| convey                     | v.传达（思想、感情） |
+| convey                     | v.传达（思想，感情） |
 | communicate                | v.传递            |
 | communication              | n.通信            |
 | telecom                    | n.通信            |
@@ -1465,7 +1448,6 @@
 | double-digit               | adj.两位数的      |
 | inflation                  | n.通货膨胀        |
 | headline                   | n.头条            |
-| doom                       | n.厄运            |
 | push up                    | 提高              |
 | dying                      | adj.临终的        |
 | end-of-life                | 临终              |
@@ -1590,12 +1572,10 @@
 | significance               | n.意义，重要性    |
 | keep down                  | 控制，抑制        |
 | supreme                    | adj.最高的        |
-| court                      | n.法院            |
-| courtesy                   | n.礼貌            |
 | off-the-cuff               | adj.即兴的        |
 | slowly                     | adv.缓慢地        |
 | rise                       | v.上升，提高，增加|
-| on the rise | 在增加、在上涨 |
+| on the rise | 在增加，在上涨 |
 | give rise to                  | 引起|
 | eyesight                   | n.视力            |
 | brow                       | n.眉毛            |
@@ -1689,8 +1669,6 @@
 | stage                    | n.时期，阶段                                 |
 | late-stage               | 后期，晚期                                   |
 | utility                  | n.效用                                       |
-| supervise                | v.监督，管理                                 |
-| supervision              | n.监督，管理                                 |
 | pose                     | v.引起，提出（问题），冒充  n.姿势           |
 | while                    | conj.虽然，尽管                              |
 | specific                 | adj.特定的                                   |
@@ -1973,7 +1951,7 @@
 | respective               | adj.分别的，各自的                           |
 | respectively             | adv.分别地，各自地                           |
 | with respect to          | 关于                                         |
-| repeatedly               | adv.多次地、重复地                           |
+| repeatedly               | adv.多次地，重复地                           |
 | investment               | n.投资                                       |
 | venture                  | v/n.冒险                                     |
 | venture investment       | 风险投资                                     |
@@ -2139,8 +2117,6 @@
 | post                     | v.发布                                       |
 | resume                   | n.简历   v.继续，恢复                                       |
 | in-house                 | adj.公司内部的                               |
-| counsel                  | n.律师，法律顾问   v.劝告，建议                          |
-| counseling               | n.咨询服务                                   |
 | repeat                   | v.重复                                       |
 | conceive                 | v.构思，设想，怀孕                           |
 | implicit                 | adj.含蓄的，隐含的；无疑的，绝对的                   |
@@ -2151,7 +2127,6 @@
 | divorce                  | v/n.离婚                                     |
 | angle                    | n.角度，视角，立场                           |
 | agriculture              | n.农业                                       |
-| ancestor                 | n.祖宗                                       |
 | alcohol                  | n.酒精                                       |
 | airline                  | n.航线，航空公司                             |
 | airport                  | n.机场                                       |
@@ -2168,7 +2143,7 @@
 | quirk                    | n.奇事，巧合                                 |
 | quirky                   | adj.古怪的，独特的                           |
 | abstract                 | adj.抽象的，纯理论的                         |
-| attract                  | v.吸引，引起（注意、兴趣）                         |
+| attract                  | v.吸引，引起（注意，兴趣）                         |
 | attractive               | adj.漂亮的 ，诱人的；有吸引力的              |
 | athlete                  | n.运动员                                     |
 | blind                    | adj.盲的，盲目的  v.使失明，使丧失判断力     |
@@ -2596,7 +2571,6 @@
 | graveyard                    | n.墓地        |
 | preface                      | n.前言，序言  |
 | present                      | v.呈现，提出  n.礼物  adj.当前的，出席的，在场的        |
-| behaviour                    | n.行为，举止  |
 | brown                        | adj.褐色的，棕色的|
 | co-operative                 | adj.合作的，乐于合作的|
 | exchange                     | v.交换        |
@@ -2738,7 +2712,7 @@
 | dress                        | n.衣服，衣着   v.给...穿衣服|
 | defer                        | v.推迟，延期；服从   |
 | defer to                      | 听从，服从|
-| deference                    | n.尊重;遵从，听从  |
+| deference                    | n.尊重；遵从，听从  |
 | launch                       | v.发起，发射  |
 | fit| adj.健康的，适合的   v.适合，适应                       |
 | fit into                     | 融入          |
@@ -2996,136 +2970,163 @@
 | possessive                   | adj.自私的，不愿分享的|
 | possible                     | adj.可能的，潜在的|
 | possibly                     | adv.可能，也许|
+// TODO:9.6
 | concept                       | n.概念，观念                                 |
 | conception                   | n.构想；概念，观念；怀孕  |
 | conceptual                   | adj.概念的，观念的|
 | conceal                      | v.隐藏，隐瞒  |
-| concede                      | v.承认（失败），让步  |
+| concede                      | v.承认（失败）；让步  |
 | concert                      | n.音乐会      |
-| ancestry                     | n.祖先，血统  |
+| ancestor                     | n.祖先                                       |
+| ancestry                     | n.祖先；血统  |
+| supervise                    | v.监督，管理                                 |
+| supervision                  | n.监督，管理                                 |
 | supervisor                   | n.主管，监督者|
 | incident                     | n.事件        |
-| incidental                   | adj.附带的，偶然的|
+| incidental                   | adj.附带的；偶然的|
 | vital                        | adj.至关重要的|
 | prevalent                    | adj.普遍的，流行的|
 | prevalence                   | n.流行，盛行  |
-| mercy                         | n.仁慈，宽恕                                 |
+| mercy                        | n.仁慈，宽恕                                 |
 | merciful                     | adj.仁慈的    |
 | loom                         | n.织布机   v.隐约可见，逼近  |
 | looming                      | adj.逼近的，迫在眉睫的|
-| invade                       | v.侵犯，侵略  |
+| invade                       | v.侵略  |
 | invader                      | n.侵略者      |
 | invasive                     | adj.入侵的，有侵略性的|
 | invasion                     | n.侵略        |
-| argument                     | n.争论，辩论，论点，论据  |
+| argument                     | n.争论，辩论；论点，论据  |
 | arguably                     | adv.可以论证地|
-| counselor                    | n.顾问，律师，辅导员  =counsellor |
+| counsel                      | n.律师，法律顾问   v.劝告，建议                          |
+| counseling                   | n.咨询服务                                   |
+| counselor                    | n.顾问；律师；辅导员  =counsellor |
 | sovereign                    | n.君主   adj.有主权的 |
 | sovereignty                  | n.主权        |
-| migrate                       | v.迁移，移居（国外）|
+| migrate                      | v.迁移，移居（国外）|
 | migration                    | n.移民，迁移  |
 | immigrant                    | adj.移民的(从国外)   n.移民   |
 | immigration                  | n.移民(国外->国内)        |
 | emigrate                     | v.移居国外    |
 | emigrant                     | n.(移居国外的)移民|
 | emigration                   | n.移民        |
-| behavioural                  | adj.行为的    |
-| outward                      | adj.向外的，表面的，外面的   adv.向外 |
+| behaviour                    | n.行为，举止  |
+| behavioural                  | adj.行为的，举止的    |
+| inward                       | adv.向内地   adj.在内的，内心的|
+| backward                     | adj&adv.向后的|
+| outward                      | adj.向外的；表面的，外面的   adv.向外 |
 | outwardly                    | adv.表面上    |
 | expertise                    | n.专业知识，专业技能  |
 | community                    | n.社区；团体，群落；界；社会 |
 | lane                         | n.小路，通道  |
+| close                        | adj.接近的        |
+| closed                       | adj.关闭的，封闭的|
+| closely                      | adv.紧密地（联系）；仔细地，亲近地  |
+| disclose                     | v.揭示，泄漏|
+| be close to                  | 接近，靠近        |
 | be closed to                 | 禁止...       |
 | rarely                       | adv.很少      |
 | illness                      | n.疾病        |
+| represent                    | v.代表            |
+| misrepresent                 | v.歪曲，曲解      |
+| representative               | n.代表，代理人   adj.有代表性的     |
 | underrepresented             | adj.未被充分代表的，弱势的|
-| linger                       | v.持续存在，徘徊，逗留，犹豫 |
+| linger                       | v.持续存在；徘徊，逗留；犹豫 |
 | lingering                    | adj.持续的    |
+| damage                       | v.损害，毁坏      |
 | damaging                     | adj.有害的    |
-| call for                     | 呼吁，号召，要求，需要|
+| call                         | v.把...称为       |
+| call on                      | 呼吁，号召；拜访，访问  |
+| call up                      | 使想起            |
+| recall                       | v.回忆起，召回    |
+| call for                     | 呼吁，号召；要求，需要|
 | have difficulty doing sth    | 很难做...     |
-| fall                         | n.秋天，下降  v.下降  |
-| dropout                      | n.辍学，辍学者|
+| fall                         | n.秋天；下降  v.下降  |
+| dropout                      | n.辍学；辍学者|
 | if nothing else              | 撇开其他不谈  |
-| rank                         | v.列为，排列，分类；分等级   n.列，排；等级        |
-| no matter how                | 不管怎样      |
+| rank                         | v.列为；排列，分类；分等级   n.列，排；等级        |
 | floor                        | n.地板        |
-| lay out                      | 展示，安排，制定（政策），表达|
-| recommend                     | v.建议，推荐|
+| lay out                      | 展示；安排，制定（政策）；表达|
+| recommend                    | v.推荐，建议|
 | recommendation               | n.推荐，建议  |
 | faculty                      | n.全体教员    |
 | rainforest                   | n.雨林        |
 | workload                     | n.工作量      |
-| orientation                  | n.方向，取向（政治，信仰），入职培训，迎新会（新生）    |
+| orientation                  | n.方向；取向（政治，信仰）；入职培训，迎新会（新生）    |
 | orient                       | n.东方  adj.东方的  v.确定方向|
 | oriental                     | n.东方人  adj.东方的  |
 | stigma                       | n.丢脸，羞耻  |
-| refer to                      | 涉及，指的是                                 |
+| refer to                     | 涉及；指的是                                 |
 | refer sb to ...              | 让某人向...求助   |
-| refer to as ...               | 把...称作|
-| mission                      | n.使命，任务  |
+| refer to as ...              | 把...称作|
 | curriculum                   | n.课程  curricula(复数)   |
 | curricular                   | adj.课程的    |
+| mission                      | n.使命，任务  |
 | commission                   | n.委员会  v.委托，委任|
 | commissioner                 | n.（某部门或组织的）委员，部长|
 | leap                         | v/n.跳跃      |
-| wipe                         | v.擦  n.抹布，湿巾|
-| acquire                      | v.获得，收购  |
-| acquisition                  | n.获得，收购  |
+| acquire                      | v.获得；收购  |
+| acquisition                  | n.获得；收购  |
 | acquirement                  | n.获得        |
-| acquisitive                  | adj.渴望获得的，贪得无厌的|
+| acquisitive                  | adj.渴望获得的；贪得无厌的|
 | donate                       | v.捐赠        |
-| donation                     | n.捐赠，捐赠物|
+| donation                     | n.捐赠；捐赠物|
 | hike                         | v/n.远足  =hiking |
-| stand                        | n.站台（货摊）；立场   v.站立，存在；忍受，抵御|
-| load up                      | 装载货物，买东西  |
+| stand                        | n.站台（货摊）；立场   v.站立；存在；忍受，抵御|
+| long-standing                | adj.长期存在的|
+| withstand                    | v.抵挡，经受住|
+| stance                       | n.立场，态度|
+| load up                      | 装载货物；买东西  |
 | snack                        | n.小吃        |
 | snake                        | n.蛇          |
 | medium                       | n.媒介  adj.中等的|
 | soda                         | n.苏打，苏打水|
-| last                         | v.持续  adj.最后的，最近的|
+| last                         | v.持续  adj.最后的；最近的|
 | sugar                        | n.糖          |
 | sugary                       | adj.含糖的，甜的  |
-| ridicule                      | n&v.嘲笑|
+| ridicule                     | n&v.嘲笑|
 | ridiculous                   | adj.荒谬的，可笑的|
 | amount                       | n.数量  v.总计，合计      |
 | end up doing sth             | 最终做...     |
 | bathroom                     | n.浴室，洗手间|
-| bath                         | n.洗澡，浴室  v.给...洗澡 |
+| bath                         | n.洗澡；浴室  v.给...洗澡 |
 | peculiar                     | adj.奇怪的，独特的|
 | peculiarity                  | n.特点，特性  |
-| gravity                      | n.重力，引力，严重性  |
+| gravity                      | n.重力，引力；严重性  |
 | gravitate                    | v.被吸引      |
 | gravitation                  | n.重力，引力  |
-| equation                     | n.方程，等式，影响因素|
+| equation                     | n.方程，等式；影响因素|
 | sting                        | v/n.刺，刺痛  (过去式 stung) |
 | spot                         | v.发现  n.地点，场所  |
+| on the spot                  | 当场，在现场|
+| hotspot                      | n.热点|
 | water                        | n.水，水域    |
-| extreme                      | adj.极度的，极端的，极大的|
+| extreme                      | adj.极度的，极端的；极大的|
 | environmentalist             | n.环保主义者  |
 | environmentalism             | n.环境保护主义|
 | endanger                     | v.危害，危及  |
 | routine                      | n.常规，惯例  adj.常规的，平淡乏味的   |
+| court                        | n.法院            |
+| courtesy                     | n.礼貌            |
 | courteous                    | adj.有礼貌的  |
-| mark                         | n.记号  v.标记，纪念（节日，事件）      |
+| mark                         | n.记号  v.标记；纪念（节日，事件）      |
 | classify                     | v.分类，分等级|
 | classfication                | n.分类，分级  |
 | put together                 | 汇总，组成整体|
 | sound                        | adj.健康的，无害的；合理的|
-| resound                      | v.大声讲，回响|
 | unsound                      | adj.错误的，不可靠的  |
+| resound                      | v.大声讲，回响|
 | resounding                   | adj.响亮的，令人瞩目的|
-| shackle                      | n.手铐，束缚  v.束缚  |
+| shackle                      | n.手铐；束缚  v.束缚  |
 | coin                         | n.硬币  v.创造新词语  |
 | grouping                     | n.分组，分类  |
-| similar                       | adj.相似的                                   |
+| similar                      | adj.相似的                                   |
 | similarity                   | n.相似之处    |
 | police                       | n.警察  v.管理，监督  |
 | consign                      | v.委托，交付  |
 | dustbin                      | n.垃圾桶      |
-| troubling                    | adj.麻烦的，令人不安的|
+| troubling                    | adj.麻烦的；令人不安的|
 | preparedness                 | n.准备状态，预备状态  |
-| replicate                    | v.复制，重复  |
+| replicate                    | v.复制；重复  |
 | interplay                    | n/v.相互作用，相互影响|
 | algorithm                    | n.算法        |
 | healthcare                   | n.医疗保健    |
@@ -3138,7 +3139,8 @@
 | harmonious                   | adj.和谐的    |
 | harmoniously                 | adv.和谐地    |
 | poll (sth) out (of)          | 抽出，取出    |
-| commitment                   | n.承诺；奉献，投入；花费  |
+| commit                       | v.犯罪，犯错；承诺；致力于|
+| commitment                   | n.承诺；奉献；投入，花费  |
 | eclipse                      | n.日食，月食  v.使黯然失色|
 | villain                      | n.反派，元凶  |
 | summit                       | n.顶峰，顶点；首脑会议，峰会 |
@@ -3149,7 +3151,7 @@
 | side                         | adj.旁边的；次要的|
 | alongside                    | adv.以及      |
 | degree                       | n.程度；学位；等级|
-| buy| v.买；相信；得到时间（buy a few decades)                |
+| buy                          | v.买；相信；得到时间（buy a few decades)                |
 | slave                        | n.奴隶        |
 | shave                        | v.刮，剃      |
 | shaver                       | n.剃须刀      |
@@ -3157,7 +3159,7 @@
 | curtail                      | v.削减        |
 | trim                         | v.修剪；削减  |
 | tenth                        | n.第十；十分之一  |
-| ripe                         | adj.（食物）成熟的，时机成熟的|
+| ripe                         | adj.（食物）成熟的；时机成熟的|
 | heat                         | n.热   v.加热 |
 | trap                         | n.陷阱   v.设陷阱；聚集（光，热量，气体） |
 | offend                       | v.冒犯；违反，犯罪|
@@ -3169,12 +3171,13 @@
 | spray                        | n.喷雾        |
 | compose                      | v.组成，构成；作曲|
 | composition                  | n.成分；作品  |
-| for starters（句首）         | 首先          |
-| for a start                   | 首先|
+| for starters（句首）          | 首先          |
+| for a start                  | 首先|
 | offset                       | v.补偿，抵消  |
 | subsidy                      | n.补贴，津贴  |
 | next to nothing              | 几乎没有      |
 | circle                       | n.界          |
+| circular                     | adj.环形的，圆形的；循环的|
 | diplomat                     | n.外交官      |
 | scheme                       | n.计划，方案   v.策划 |
 | schedule                     | n.时间表，日程表   v.安排 |
@@ -3182,7 +3185,7 @@
 | suspend                      | v.暂停，中止  |
 | suspension                   | n.暂停，中止  |
 | ecosystem                    | n.生态系统    |
-| cap| n.帽子；上限    v.覆盖|
+| cap                          | n.帽子；上限    v.覆盖|
 | site                         | n.网站；地点，位置|
 | pack                         | v.打包；塞满（with）  |
 | futile                       | adj.徒劳的    |
@@ -3190,23 +3193,24 @@
 | bearish                      | adj.行情看跌的|
 | quarter                      | n.四分之一；方向，方面|
 | quarterly                    | adj.季度的    |
-| in doing so，(句首)          | 在这情况下    |
+| in doing so，(句首)           | 在这情况下    |
 | edge                         | n.边缘；优势  |
 | cutting-edge                 | adj.前沿的，尖端的|
 | high-end                     | adj.高端的    |
 | mundane                      | adj.世俗的；平凡的，单调的|
-| mundanity                     | n.世俗，平凡|
-| impossibly                   | adv.非常地；无法想象地，难以置信地|
-| acute                        | adj.严重的，（疾病）急性的|
+| mundanity                    | n.世俗，平凡|
+| impossibly                   | adv.非常；无法想象地，难以置信地|
+// TODO:9.4->9.7
+| acute                        | adj.严重的；（疾病）急性的|
 | arm                          | v.武装   n.手臂；武器；（职能）部门                     |
-| armoury                      | n.兵工厂、军械库  |
+| armoury                      | n.兵工厂，军械库  |
 | go public                    | 上市          |
-| found                        | v.建立，创建  |
 | tier                         | n.层；等级    |
 | first-tier city              | 一线城市      |
 | give up on sb/sth            | 放弃...       |
-| greet                         | v.问候，打招呼；迎接；对...作出反应（with）|
-| be greeted by                | 受到了...的对待   |
+| greet                        | v.问候，打招呼；迎接|
+| be greeted with              | 受到(怀疑)；对...作出反应|
+| be greeted by                | 受到了...的迎接；引起，引发   |
 | billion                      | n.十亿        |
 | trillion                     | n.万亿        |
 | misplace                     | v.错放，误给  |
@@ -3214,29 +3218,25 @@
 | bellwether                   | n.领头羊，风向标  |
 | owe to                       | 归因于，由于  |
 | owe A to B                   | 把A归因于B    |
-| attribute                    | v.把...归因于   n.属性，特征 |
-| navigate                     | v.导航，找到正确方向；处理、应对；浏览网页|
+| attribute                    | v.归因于   n.属性，特征 |
+| navigate                     | v.导航，找到正确方向；处理，应对；浏览网页|
 | navigation                   | n.导航        |
 | horrible                     | adj.恐怖的，可怕的|
-| horribly                     | adv.可怕地    |
+| horribly                     | adv.恐怖地，可怕地    |
 | faint                        | adj.头晕目眩的，虚弱的（身体）；微弱的，微小的   v.昏厥|
 | adulthood                    | n.成年        |
 | head-on                      | adj&adv.正面的，直接的|
 | infuse                       | v.注入，灌输  |
 | more or less                 | 或多或少      |
-| brush                         | n.刷子；灌木丛   v.刷|
+| brush                        | n.刷子；灌木丛   v.刷|
 | a brush with sth             | 接触；经历    |
-| conscious                    | adj.有意识的  |
-| be conscious of              | 意识到...     |
-| subconscious                 | adj.潜意识的   n.潜意识   |
 | distort                      | v.扭曲，歪曲  |
-| block out                    | 遮挡          |
 | fret                         | v.烦恼，焦虑  |
 | stove                        | n.火炉        |
-| crowd in                     | (回忆、想法)涌入  |
+| crowd in                     | (回忆，想法)涌入  |
 | full-blown                   | adj.全面的    |
 | make clear                   | 解释          |
-| tumble                       | v.跌倒；暴跌（股价、房价）|
+| tumble                       | v.跌倒；暴跌（股价，房价）|
 | statistic                    | n.统计数据    |
 | statistical                  | adj.统计的，统计学的  |
 | statistically                | adv.统计地，统计上地  |
@@ -3249,9 +3249,8 @@
 | plumb                        | v.探索，探测  |
 | Socratic                     | adj.苏格拉底的，苏格拉底问答法的|
 | fallacy                      | n.谬论        |
-| fallacious                    | adj.谬误的，错误的|
-| day by day                   | 日复一日地    |
-| countervail                   | v.抗衡，抵消|
+| fallacious                   | adj.谬误的，错误的|
+| countervail                  | v.抗衡，抵消|
 | countervailing               | adj.抗衡的，抵消的|
 | fervent                      | adj.热情的；强烈的|
 | hard science                 | 自然科学      |
@@ -3259,7 +3258,7 @@
 | mantra                       | n.观点；准则；颂歌  |
 | ritual                       | n.仪式；例行习惯   adj.仪式的；惯常的|
 | ritualism                    | n.仪式主义    |
-| practitioner                 | n.实践者，从业者，医师|
+| practitioner                 | n.实践者；从业者；医师|
 | depression                   | n.抑郁(症)，沮丧；（经济）萧条|
 | depressive                   | adj.抑郁的   n.抑郁症患者 |
 | it's said that               | 据说....      |
@@ -3269,47 +3268,46 @@
 | confirm                      | v.证实，确认  |
 | confirmation                 | n.证实，确认  |
 | Harvard                      | n.哈佛大学    |
-| material                     | n.材料，原料；人才；  |
+| material                     | n.材料，原料；人才|
 | tutor                        | n.导师，家庭教师    v.指导，辅导|
 | apprentice                   | n.学徒        |
-| apprenticeship               | n.学徒期，学徒制  |
-| vocation                     | n.职业，工作  |
+| apprenticeship               | n.学徒期；学徒制  |
+| vocation                     | n.职业；工作  |
 | vocational school            | 职业学校      |
 | on-the-job                   | adj.在职的    |
 | world-class                  | adj.世界级的  |
 | bachelor                     | n.单身汉；学士（本科）|
-| content                      | n.内容，目录   adj.满足的 |
+| content                      | n.内容；目录   adj.满足的 |
 | discontent                   | n.不满     adj.不满的 |
 | out of ...                   | 出于...       |
-| in terms of                  | 就...而言     |
 | gross domestic product       | GDP           |
 | surprisingly                 | adv.惊人地，令人惊讶地|
 | gear                         | n.装备；齿轮   v.换挡；调整，使适合        |
 | the Nobel Prize              | n.诺贝尔奖    |
 | chemical                     | n.化学制品    |
 | chemistry                    | n.化学        |
-| award                        | v.颁奖，授予     n.奖品   |
+| award                        | v.颁奖；授予     n.奖品   |
 | awardee                      | n.获奖人      |
-| peer                         | n.同辈，同等地位的人    v.凝视|
+| peer                         | n.同辈；同等地位的人    v.凝视|
 | peer into                    | 凝视，窥探    |
 | permeate                     | v.渗透，弥漫  |
-| compact                      | adj.紧凑的，小型的|
+| compact                      | adj.紧凑的；小型的|
 | gadget                       | n.小器具，小装置  |
 | thrill                       | v.使激动，使兴奋  |
 | thrilled                     | adj.非常激动的，非常兴奋的|
 | back and forth               | 反复地，来回地|
 | pair                         | n.一对，一双     v.配对   |
 | readily                      | adv.乐意地；容易地|
-| readiness                     | n.乐意，愿意；容易|
+| readiness                    | n.乐意，愿意；容易|
 | resulting                    | adj.由此产生的，作为结果的|
 | deposit                      | v.沉积，沉淀；储蓄     n.存款|
 | thin                         | adj.瘦的，薄的|
-| soak                          | v.浸泡；吸收|
+| soak                         | v.浸泡；吸收|
 | soak up                      | 吸收（气体等）；享受，感受（气氛）|
 | portable                     | adj.便携式的，手提的  |
-| stun                          | v.使昏迷；使震惊|
-| stunning                     | adj.令人震惊的，极好的|
-| do away with                 | 清除，终止，废除  |
+| stun                         | v.使昏迷；使震惊|
+| stunning                     | adj.令人震惊的；极好的|
+| do away with                 | 清除；终止，废除  |
 | thrust                       | n.要点，要旨  |
 | propel                       | v.推进，推动  |
 | backup                       | adj.候补的，替代的    n.备份 |
@@ -3336,17 +3334,22 @@
 | manager                      | n.经理，管理人，经纪人|
 | manageable                   | adj.可应对的  |
 | clout                        | n.影响力；权利   v.猛击，打      |
-| it makes sence that/to       | 讲得通；...是有意义的 |
+| coordinate                   | v.协调   n.坐标|
 | coordination                 | n.协调        |
 | coordinated                  | adj.协调的    |
 | cooperate                    | v.合作        |
 | cooperative                  | adj.合作的    |
+| sense                        | n.感觉，知觉；意义  v.意识到，感觉到|
+| nosense                      | n.胡说，废话  |
+| consensus                    | n.一致，共识    |
 | sensible                     | adj.理智的，明智的|
-| well-intentioned             | adj.用意良好的|
-| craft                        | n.工艺 ，手艺    v.精心制作  |
+| it makes sence that/to       | 讲得通；...是有意义的 |
+| in a sense = in one sense    | 在某种意义上|
+| craft                        | n.工艺，手艺    v.精心制作  |
 | coddle                       | v.溺爱，娇养  |
 | impede                       | v.阻碍，妨碍  |
 | block                        | v.阻碍，阻塞   n.块；街区；大楼        |
+| block out                    | 遮挡          |
 | available                    | adj.可获得的  |
 | available for                | 可用于...     |
 | in the long run              | 从长远看      |
@@ -3354,18 +3357,18 @@
 | in practice                  | 实际上        |
 | in theory                    | 理论上        |
 | global                       | adj.全球的    |
-| globally                      | adv.全球地|
+| globally                     | adv.全球地|
 | globalization                | n.全球化      |
-| rock                         | n.岩石，摇滚乐   v.动摇   |
+| rock                         | n.岩石；摇滚乐   v.动摇   |
 | nurture                      | v/n.养育，培育|
-| nascent                      | adj.新生的；新兴的；未成熟的    |
+| nascent                      | adj.新生的，新兴的；未成熟的    |
 | facility                     | n.设施，设备；场所；才能  |
 | task                         | v.派任务  n.任务，工作     |
-| horde                         | n.（一大）群|
+| horde                        | n.（一大）群|
 | hordes of ...                | 成群的...     |
 | horse                        | n.马          |
 | feeble                       | adj.虚弱的，无力的|
-| insane                       | adj.疯狂的，精神失常的|
+| insane                       | adj.疯狂的；精神失常的|
 | score                        | n.分数  v.评分；得分  |
 | desperate                    | adj.绝望的，不顾一切的|
 | in desperation               | 绝望地，不顾一切地|
@@ -3379,7 +3382,7 @@
 | erode                        | v.侵蚀，腐蚀  |
 | superior                     | n.上级   adj.上级的；优秀的，出众的|
 | superiority                  | n.优势，优越  |
-| inferior                     | adj.下等的，下级的|
+| inferior                     | adj.下等的；下级的|
 | inferiority                  | n.劣势，低等；自卑|
 | set off                      | v.引起；出发  |
 | fixed                        | adj.固定的    |
@@ -3388,20 +3391,20 @@
 | outspoken                    | adj.坦率的，直言不讳的|
 | chancellor                   | n.（政府）大臣，总理；校长  |
 | chronice                     | v.记录    n.编年史|
-| caution                       | n.小心，注意；警告   v.警告|
+| caution                      | n.小心，注意；警告   v.警告|
 | cautionary                   | adj.警告的，警戒的    |
-| precaution                 | n.预防措施        |
-| precautious                | adj.有防备的，警惕的 |
+| precaution                   | n.预防措施        |
+| precautious                  | adj.有防备的，警惕的 |
 | timeless                     | adj.永恒的，长期有效的|
 | tale                         | n.故事，传说  |
 | subvert                      | v.颠覆，推翻  |
-| posh                           |adj.豪华的，高档的|
-| stock                          |n.库存；股票|
-| stockpile                     | n.（物资）储备|
-| laughing stock                | 笑柄，笑料    |
-// TODO:9.4
+| posh                         | adj.豪华的，高档的|
+| stock                        | n.库存；股票|
+| stockpile                    | n.（物资）储备|
+| laughing stock               | 笑柄，笑料    |
+// TODO:9.4->9.7
 | price                         | n.价格；代价  v.定价  |
-| pricey                        |adj.昂贵的|
+| pricey                        | adj.昂贵的|
 | pricing                       | n.定价        |
 | at the height of              | 在...的顶点|
 | slump                         | v&n.骤降|
@@ -3411,21 +3414,19 @@
 | outlook                       | n.世界观，人生观；景色，前景；观点 |
 | world views                   | 世界观         |
 | hang over                     | 笼罩|
-| overhaul                      | v&n.彻底检修，全面改革    |
+| overhaul                      | v&n.彻底检修；全面改革    |
 | fold                          | v.折叠；屈服，妥协  n.折痕；倍数|
 | unfold                        | v.打开，呈现|
 | threefold                     | adj.三倍的，三部分的    adv.三倍地|
 | continent                     | n.洲，大陆|
 | continental                   | adj.大陆的；欧洲大陆的    n.欧洲大陆人|
 | intercontinental              | adj.洲际的|
-| spree                         | n.狂欢; 放纵|
+| spree                         | n.狂欢；放纵|
 | the likes of ...              | 像...这样的人或物|
-| hotspot                       | n.热点|
 | short-lived                   | adj.短命的，持续不久的|
-| long-standing                 | adj.长期存在的|
 | ware                          | n.货物，商品|
 | note                          | v.指出；记录  |
-| notable                       | adj.值得注意的；著名的；显著的（作用、效果）n.名人|
+| notable                       | adj.值得注意的；著名的；显著的（作用，效果）n.名人|
 | notably                       | adv.尤其；显著地  |
 | rectify                       | v.纠正，改正      |
 | revise                        | v.修订，修改；复习      |
@@ -3454,6 +3455,7 @@
 | be supposed to                | 应该做... |
 | ought to do sth               | 应该做... |
 | all-time                      | adj.空前的，创纪录的|
+| doom                          | n.厄运            |
 | doomsday                      | n.世界末日|
 | cite                          | v.引用，举例|
 | auto                          | n.汽车        |
@@ -3482,7 +3484,6 @@
 | causal                        | adj.因果关系的|
 | causality                     | n.因果关系|
 | the other way round           | 相反|
-| forthcoming                   | adj.即将到来的|
 | whereby                       | adv.凭此          |
 | thereby                       | adv.从而          |
 | orbit                         | n.轨道|
@@ -3510,7 +3511,7 @@
 | delivery                      | n.讲话方式        |
 | take upon/on                  | 承担；接受|
 | take up                       | 拿起，抓准（机会）；开始从事；承担；占据  |
-| zeal                          | n.热心、热忱      |
+| zeal                          | n.热心，热忱      |
 | reject                        | v.拒绝，排斥  |
 | deny                          | v.否认，拒绝|
 | denial                        | n.否认，拒绝|
@@ -3549,7 +3550,6 @@
 | fall flat                     | 失败，没有达到预期效果|
 | aspire                        | v.渴望|
 | aspiration                    | n.渴望；抱负|
-| replicate                     | v.复制|
 | bacteria                      | n.细菌|
 | ship                          | n.船  v.船运，运送|
 | chef                          | n.主厨，厨师|
@@ -3569,6 +3569,7 @@
 | it is commonly assumed that   | 人们通常认为...|
 | intact                        | adj.原始的；完整无缺的，未经触动的 |
 | day-to-day                    | adj.日常的|
+| day by day                    | 日复一日地    |
 | perceive                      | v.察觉，意识到；认为|
 | percept                       | n.认知|
 | perceptive                    | adj.观察敏锐的，有洞察力的|
@@ -3586,7 +3587,6 @@
 | joint                         | adj.共同的，联合的  n.关节|
 | translate                     | v.转化，转变；翻译；导致|
 | translate into                | 将...变成...；翻译；导致    |
-| vary                          | v.变化；使多样化|
 | redundant                     | adj.多余的，过剩的；被裁员的，被解雇的|
 | redundancy                    | n.裁员|
 | backlash                      | n/v.强烈反对，抵制|
@@ -3596,10 +3596,12 @@
 | hold promise (for)            | 有希望...         |
 | hold true for                 | 适用于...         |
 | some                          | adv.大约  adj.某个（+单n）；一些（+pl.）|
-// TODO:9.3
+// TODO:9.3->9.7
 | recept                        | n.感受；接受，接待|
 | receptive                     | adj.善于接受的，乐于接受的|
 | reception                     | n.接待；招待会|
+| receive                       | v.接收，收到      |
+| receipt                       | n.收据            |
 | sheer                         | adj.纯粹的，完全的；陡峭的 |
 | uneasy                        | adj.担忧的，不安的|
 | downright                     | adj&adv.彻底的，完全的|
@@ -3611,6 +3613,7 @@
 | smash                         | v.打碎，粉碎|
 | skeptic                       | n.持怀疑态度的人|
 | skeptical                     | adj.怀疑的|
+| found                         | v.建立，创建  |
 | well-founded                  | adj.有根据的，理由充足的|
 | wary                          | adj.谨慎的，警惕的|
 | manifold                      | adj.各种各样的，多样的|
@@ -3650,8 +3653,8 @@
 | lump                          | n.肿块   v.使成团，使结块；把...归并一起|
 | magnify                       | v.放大，扩大|
 | radiate                       | v.放射，辐射；散布，传播|
-| systematic                    | adj.系统的；有组织的，有条理的；蓄意的        |
 | systemic                      | adj.系统的    |
+| systematic                    | adj.系统的；有组织的，有条理的；蓄意的        |
 | off                           | prep.从...离开，从...去掉    off the menu 弃于菜单之外 |
 | shoot                         | v.射击|
 | shoot up                      | 猛增|
@@ -3674,13 +3677,11 @@
 | serve as                      | 充当|
 | deserve                       | v.值得，应得  |
 | reserve                       | v.保留，储备；预订   n.储备；保护区|
-| reserved                      | adj.保留的，预订的|
+| reserved                      | adj.保留的；预订的|
 | reservation                   | n.预定，预约|
 | preserve                      | n.保护区；独有的事物  v.保护 |
 | uplift                        | v.提高，增长；振奋|
 | uplifting                     | adj.令人振奋的|
-| take                          ||
-| take down                     | 拆卸；摧毁|
 | sure enough                   | 果然，不出所料|
 | surely                        | adv.无疑，肯定    |
 | for sure                      | 无疑，肯定        |
@@ -3709,12 +3710,11 @@
 | sort of                       | 有点，某种程度上     （ I feel sort of sorry for him ） |
 | sort out                      | 整理（东西）；解决（问题）|
 | resort                        | v.求助，诉诸  n.手段；度假胜地|
-| mention                       | v.提到，提及            |
 | blend                         | v.混合|
 | overtake                      | v.赶上，超过|
 | turn ... upside down          | 颠倒，颠覆|
 | widely                        | adv.广泛地，普遍地|
-| widespread                    | adj.普遍的，广泛的                           |
+| widespread                    | adj.广泛的，普遍的                           |
 | anticipate                    | v.预料，预期|
 | anticipated                   | adj.预先的；预期的|
 | mainly                        | adv.主要地，大部分地|
@@ -3776,14 +3776,14 @@
 | industrialisation             | n.工业化                                     |
 | eradicate                     | v.消灭，灭绝；根除，消除|
 | eradicable                    | adj.可根除的|
-| eradication                   | n.根除，消除|
+| eradication                   | n.消灭，灭绝；根除，消除|
 | disease                       | n.疾病|
 | as a result,                  | 因此，结果        |
 | as a result of                | 由于，因为|
 | result from                   | 由...造成         |
 | result in                     | 导致              |
 | partial                       | adj.部分的，不完全的  |
-| partially                     | adv.部分地，在某种程度上|
+| partially                     | adv.部分地；在某种程度上|
 | in part                       | 部分地；某种程度上            |
 | pioneer                       | n.先驱者，开拓者     v.开创  |
 | enterprise                    | n.企业；事业；进取心|
@@ -3792,13 +3792,12 @@
 | be destined to                | 注定...       |
 | destiny                       | n.命运|
 | reach                         | v.到达，抵达；（伸手）够到；达成（协议）  n.可到达的距离；能力所及范围 |
-// TODO:9.3
+// TODO:9.3->9.5
 | show off                      | 展示|
 | solicit                       | v.恳求，征求|
 | to be fair,                   | 说句公道话|
 | corridor                      | n.走廊；人口密集地带|
 | cater                         | v.迎合，满足需要|
-| on the spot                   | 当场，在现场|
 | prompt                        | v.推动，促进  adj.迅速的，立即的|
 | promptly                      | adv.迅速地，敏捷地|
 | elsewhere                     | adv.在别处|
@@ -3816,12 +3815,12 @@
 | civil                         | adj.公民的；文明的；国内的|
 | civilize                      | v.教化，使文明    |
 | civilization                  | n.文明，文明阶段，文明社会|
-| civilian                      | n.平民  adj.平民的，民用的|
+| civilian                      | n.平民  adj.平民的；民用的|
 | age-old                       | adj.古老的，由来已久的|
 | pressing                      | adj.紧急的；难以抗拒的|
 | notion                        | n.看法        |
 | odd                           | adj.奇怪的                                   |
-| odds                          | n.可能性，概率                               |
+| odds                          | n.概率，可能性                              |
 | at odds                       | 不同于...；与...有分歧|
 | probability                   | n.概率，可能性|
 | work with + sb                | 和...合作|
@@ -3849,6 +3848,8 @@
 | manufacturer                  | n.制造商|
 | conscious                     | adj.有意识的|
 | consciousness                 | n.意识|
+| be conscious of               | 意识到...     |
+| subconscious                  | adj.潜意识的   n.潜意识   |
 | conscience                    | n.良心                                       |
 | conscientious                 | adj.本着良心的|
 | converse                      | v.交谈  adj.相反的|
@@ -3866,7 +3867,7 @@
 | gain                          | v.获得；增加  n.获得；增益|
 | instinctive                   | adj.本能的|
 | instinctively                 | adv.本能地，下意识地|
-| involvement                   | n.参与，介入      |
+| involvement                   | n.涉及，参与      |
 | be involved in                | 涉及，参与；专注于|
 | follow-up                     | adj.后续的|
 | liar                          | n.说谎的人|
@@ -3879,7 +3880,7 @@
 | not only that,                | 不仅如此|
 | remark                        | n.评论，言论   v.评论，谈论                              |
 | remarkable                    | adj.显著的，明显的；不同寻常的；非凡的，卓越的|
-| poor                          | adj.穷的，差的                             |
+| poor                          | adj.穷的；差的                             |
 | detriment                     | n.损伤，损害                                 |
 | detrimental                   | adj.有害的                                   |
 | limit                         | n.限制，极限  v.限制                         |
@@ -3919,6 +3920,7 @@
 | matter                        | n.物质；事情；问题，麻烦  v.要紧，重要|
 | for that matter               | 就此而言 |
 | a matter of                   | 是个...问题；大约，大概     |
+| no matter how                 | 不管怎样      |
 | haunt                         | v.出没，萦绕；困扰|
 | wellness                      | n.健康        |
 | wellbeing                     | n.幸福，健康，福利|
@@ -3932,12 +3934,12 @@
 | devote to                     | 把...奉献给..|
 | tablet                        | n.药片；平板电脑  |
 | avoidance                     | n.避免|
-| trauma                        | n.(身、心)创伤  |
+| trauma                        | n.(身，心)创伤  |
 | thesis                        | n.论文；论点|
 | hypothesis                    | n.假设，猜想|
 | psychology                    | n.心理学          |
 | psychological                 | adj.心理的，心理学的|
-| dive                          | v/n.潜水，跳水，暴跌  |
+| dive                          | v/n.潜水，跳水；暴跌  |
 | dive into                     | 一心投入    |
 | establishment                 | n.建立，创立；当权者；机构      |
 | established                   | adj.已确立的，确定的|
@@ -3966,7 +3968,6 @@
 | mine                          | n.矿  v.采矿   pron.我的   |
 | undermine                     | v.破坏，损害|
 | legacy                        | n.遗产，遗赠物；遗留问题，后遗症|
-| reasonably                    | adv.合理地|
 | dispose                       | v.安排；处置，处理|
 | disposal                      | n.处理，处置|
 | disposable                    | adj.用完即丢弃的，一次性的|
@@ -3996,11 +3997,11 @@
 | accessible                    | adj.可获得的，可使用的|
 | inaccessible                  | adj.难以达到的，难以接近的|
 | gain access to                | 获得...|
-// TODO:9.2->9.3
+// TODO:9.2->9.3->9.6
 | expel                         | v.驱逐，排出；开除|
 | a piece of                    | 一片，一张，一件|
 | impressive                    | adj.令人印象深刻的|
-| clock                         | v.达到（时间、速度）；记录   n.时钟|
+| clock                         | v.达到（时间，速度）；记录   n.时钟|
 | conquer                       | v.战胜；攻克，克服|
 | complement                    | v.补充|
 | complementary                 | adj.互补的                                   |
@@ -4035,8 +4036,6 @@
 | reactor                       | n.核反应堆|
 | born                          | adj.天生的，注定的 |
 | inborn                        | adj.天生的，先天的|
-| foreign-born                  | adj.在国外出生的  |
-| native-born                   | adj.本国出生的|
 | be born with                  | 生而具有|
 | distinct                      | adj.明显的；截然不同的，有区别的|
 | distinction                   | n.区别；荣誉  |
@@ -4136,7 +4135,6 @@
 | ill-equipped                  | adj.装备不良的，能力欠缺的|
 | ambition                      | n.抱负|
 | ambitious                     | adj.有野心的，有雄心的；费力的，艰巨的|
-| trip                          | n&v.旅行|
 | discrepancy                   | n.差异，矛盾|
 | discrepant                    | adj.有差异的，不一致的|
 | nine out of ten               | 十个中有九个，十分之九|
@@ -4160,7 +4158,6 @@
 | dental                        | adj.牙齿的；牙科的|
 | dentist                       | n.牙科医生|
 | abuse                         | v&n.滥用；虐待|
-| circular                      | adj.环形的，圆形的；循环的|
 | undertake                     | v.承担；担任|
 | instruct                      | v.指示，命令；指导                           |
 | instruction                   | n.命令；教授，指导；用法说明                       |
@@ -4197,7 +4194,7 @@
 | confine                       | v.限制，局限于|
 | grieve                        | v.使悲伤，使伤心|
 | grief                         | n.悲伤，悲痛|
-// TODO: 9.2
+// TODO: 9.2->9.4
 | grievous                      | adj.令人悲伤的；严重的（问题）|
 | grievance                     | n.委屈，不满  |
 | infect                        | v.传染，感染|
@@ -4222,7 +4219,7 @@
 | chill                         | n.寒冷|
 | keen                          | adj.热心的，渴望的|
 | strightforward                | adj.正直的，坦率的；简单的，易懂的|
-| noble                         | adj.高尚的，贵族的                           |
+| noble                         | adj.高尚的；贵族的                           |
 | royal                         | adj.王室的，皇家的                           |
 | royalty                       | n.王家，王室|
 | loyal                         | adj.忠诚的                                   |
@@ -4254,11 +4251,11 @@
 | correlation                   | n.关联，相关性 |
 | relative                      | n.亲戚   adj.相对的                          |
 | relativity                    | n.相关（性）|
-| oblige                       | v.强迫，迫使  |
-| be obliged to                | 不得不，必须  |
+| oblige                        | v.强迫，迫使  |
+| be obliged to                 | 不得不，必须  |
 | obligation                    | n.义务，责任|
 | detector                      | n.探测器|
-| mock                         | v.嘲笑        |
+| mock                          | v.嘲笑        |
 | ounce                         | n.盎司，英两|
 | string                        | n.一串，一系列|
 | plateau                       | n.高原；稳定期，停滞期|
@@ -4297,7 +4294,6 @@
 | pump                          | n.汽油；汞            |
 | petrol                        | n.汽油            |
 | petroleum                     | n.石油|
-| disclose                      | v.揭示，泄漏|
 | amid                          | prep.在...中间|
 | fume                          | n.烟，气      |
 | perfume                       | n.香味，芳香|
@@ -4326,7 +4322,7 @@
 | ashamed                       | adj.羞耻的，惭愧的|
 | demonstrate                   | v.展示，说明；论证，证明            |
 | mechanism                     | n.机制，机械装置  |
-| mechanic                      | n.技工、机修师    |
+| mechanic                      | n.技工，机修师    |
 | mechanical                    | adj.机械的；呆板的        |
 | quantity                      | n.数量            |
 | quantify                      | v.量化，确定...的数量|
@@ -4336,8 +4332,6 @@
 | obstacle                      | n.障碍                                       |
 | digest                        | v.吸收，消化|
 | digestion                     | n.消化，消化能力|
-| inward                        | adv.向内地   adj.在内的，内心的|
-| backward                      | adj&adv.向后的|
 | galaxy                        | n.星系|
 | fortune                       | n.命运            |
 | brightening fortune           | 前景大好          |
@@ -4398,7 +4392,7 @@
 | overwhelm                     | v.淹没，击败      |
 | overwhelming                  | adj.势不可挡的，压倒性的；绝大部分的|
 | overwhelmingly                | adv.压倒性地，绝大多数地 |
-// TODO: 8.31->9.2
+// TODO: 8.31->9.2->9.5
 | stagnate                      | v.使停滞|
 | stagnation                    | n.停滞|
 | erode                         | v.侵蚀，腐蚀|
@@ -4415,7 +4409,6 @@
 | on the grounds that           | 理由是            |
 | be grounded in                | 以...为基础       |
 | get ... off the ground        | 取得进展|
-| withstand                     | v.抵挡，经受住|
 | dispute                       | n.纠纷   v.对...有异议；争论，争执 |
 | disputed                      | adj.有争议的|
 | disputable                    | adj.有争议的|
@@ -4432,18 +4425,18 @@
 | susceptibility                | n.易受影响的特性|
 | deplete                       | v.耗尽|
 | quest                         | n.探索                                       |
-| divert                        | v.使转向；转移（注意力、资金、航班）；改变用途|
+| divert                        | v.使转向；转移（注意力，资金，航班）；改变用途|
 | induce                        | v.诱使，导致|
 | ~-inducing                    | 导致...的   obesity-inducing 导致肥胖的|
 | precede                       | v.领先，先于；优于，高于  |
 | precedent                     | n.先例   adj.在前的，在先的  |
 | precedented                   | adj.有先例的  |
 | unprecedented                 | adj.前所未有的|
-| program                       | n.程序，项目      |
+| program                       | n.程序；项目      |
 | be programmed to              | 设定为...         |
 | programme                     | n.程序；项目   v.编程|
 | deprive                       | v.夺去，使丧失|
-| deprivation                   | n.剥夺，免职；匮乏，丧失，贫困|
+| deprivation                   | n.剥夺，免职；匮乏，丧失；贫困|
 | deprive sb of sth             | 使某人失去某物|
 | deprived                      | adj.贫穷的|
 | national                      | adj.民族的，国家的；全国（范围）的                           |
@@ -4457,7 +4450,7 @@
 | regulation                    | n.规则，法规；管理，监督|
 | pronounce                     | v.发音；宣布  |
 | pronounced                    | adj.明显的，显著的    |
-| pronouncement                 | n.声明，宣告  |
+| pronouncement                 | n.公告，宣布  |
 | announcement                  | n.公告，宣布|
 | guess                         | v/n.猜测，猜想|
 | passive                       | adj.消极的|
@@ -4593,7 +4586,7 @@
 | assimilation                  | n.吸收，消化；同化  |
 | assimilate ... into ...       | 融入...|
 | as ... as possible            | 尽可能...|
-// TODO: 8.30
+// TODO: 8.30->9.4
 | contrast                      | v.对比，对照；截然不同，有明显差异  n.对照，对比|
 | by contrast                   | 相比之下|
 | contract                      | n.合同	v.签订合同 |
@@ -4608,6 +4601,7 @@
 | intention                     | n.意图，打算|
 | intentional                   | adj.故意的|
 | unintentional                 | adj.无意的        |
+| well-intentioned              | adj.用意良好的|
 | be intended to                | 目的是|
 | expand                        | v.扩大，扩展|
 | expansion                     | n.扩大，扩展|
@@ -4646,13 +4640,14 @@
 | draw on                       | 利用，凭借|
 | as a whole                    | 大体上，整体来看 |
 | segregate                     | v.分开，隔离|
-| favor                         | v.赞成，喜爱                                 |
+| favor                         | v.赞成；喜爱                                 |
 | favorable                     | adj.赞成的                                   |
 | in favor of                   | 赞成，支持                                      |
 | advocacy                      | n.拥护；提倡，主张  |
-| advocate                      | v.提倡，主张    n.提倡者，拥护者  |
+| advocate                      | v.提倡，主张    n.提倡者；拥护者  |
 | usual                         | adj.通常的        |
 | unusual                       | adj.不寻常的，与众不同的|
+| mention                       | v.提到，提及            |
 | not to mention                | 更不必说|
 | hot-button                    | adj.热门的（话题）；有争议的|
 | subsist                       | v.维持生活|
@@ -4683,26 +4678,26 @@
 | disintegrate                  | v.衰老；解体，分裂                           |
 | integration                   | n.结合，一体化|
 | integrity                     | n.完整，完好；正直，诚实|
-| require                       | v.需要，要求|
+| require                       | v.需要；要求|
 | just                          | adv.刚刚，恰好  adj.公正的|
-| justice                       | n.正义，合理（性）|
+| justice                       | n.正义；合理（性）|
 | just as                       | 就像，正如；同样...    |
 | justification                 | n.正当理由        |
 | justify                       | v.证明...是正当的；为...辩护/辩解            |
 | justifiable                   | adj.正当的，合理的|
 | well-designed                 | adj.精心设计的|
 | be designed to                | 旨在，目的是|
-| security                      | n.安全、保障      |
+| security                      | n.安全，保障      |
 | secure                        | adj.安全的，可靠的   v.获得|
 | aggregate                     | adj.总的，合计的   n.总计|
 | term                          | v.把...称为  n.措辞，说法；学期；期限                    |
 | long                          | adj.长期的                                   |
 | long-term                     | adj.长期的                                   |
 | in the short term             | 短期                                         |
+| in terms of                   | 就...而言     |
 | defend                        | v.保护；辩护|
 | defendant                     | n.被告|
 | defensible                    | adj.可辩护的；合乎情理的|
-| stance                        | n.立场，态度|
 | deplore                       | v.谴责，强烈反对|
 | urban                         | adj.城市的                                   |
 | urbanise                      | v.使城镇化                                   |
