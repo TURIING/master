@@ -1,4 +1,3 @@
-| acute                        | adj.严重的；（疾病）急性的|
 | arm                          | v.武装   n.手臂；武器；（职能）部门                     |
 | armoury                      | n.兵工厂，军械库  |
 | go public                    | 上市          |
@@ -90,3 +89,64 @@
 | retirement                   | n.退休        |
 | acceleration                 | n.加速度      |
 | clever                       | adj.聪明的    |
+| the Dutch                    | 荷兰人                                       |
+| the French                   | 法国人                                       |
+| Britain                      | n.英国                                       |
+| distrust/mistrust        | v/n.怀疑，不信任                             |
+| reporter                 | n.记者                                       |
+| say                      | v.比如（说）                                 |
+| sad to say               | 遗憾的是                                     |
+| in the world             | 究竟，到底                                   |
+| standard                 | adj.标准的  n.标准                           |
+| template                 | n.模板                                       |
+| gather                   | v.聚集，收集                                 |
+| honest                   | adj.诚实的，正直的，老实的                   |
+| opportunity              | n.机会，时机                                 |
+| music                    | n.音乐，乐曲，乐谱                           |
+| paragraph                | n.段落                                       |
+| help to                  | 有助于                                       |
+| hip                      | n.臀部                                       |
+| remove                   | v.切除，消除                                 |
+| removal                  | n.消除，清除                                 |
+| offer sb sth             | 向某人提供...                                |
+| failure/failed to        | 未能...                                      |
+| third-party              | 第三方（的）                                 |
+| cousin                   | n.堂兄弟，堂姐妹                             |
+| the environment          | 自然环境                                     |
+| monarch                  | n.君主，帝王                                 |
+| skip                     | v.略过，跳过                                 |
+| skin                     | n.皮肤                                       |
+| skyscraper               | n.摩天大楼                                   |
+| slogan                   | n.标语，口号                                 |
+| voyage                   | n&v.航海，航行                                       |
+| volcano                  | n.火山                                       |
+| volcanic                 | adj.火山的                                   |
+| vitamin                  | n.维生素                                     |
+| weapon                   | n.武器                                       |
+| pound                    | n.英镑                                       |
+| policy                   | n.政策                                       |
+| position                 | n.职位                                       |
+| title                    | n.职位                                       |
+| subtitle                 | n.副标题                                     |
+| post                     | v.发布                                       |
+| evidence                 | n.根据，证据                                 |
+| divorce                  | v/n.离婚                                     |
+| agriculture              | n.农业                                       |
+| alcohol                  | n.酒精                                       |
+| airline                  | n.航线；航空公司                             |
+| airport                  | n.机场                                       |
+| adult                    | n.成年人                                     |
+| flood                    | n.洪水                                       |
+| fly                      | v.飞行   n.苍蝇                              |
+| heroin                   | n.海洛因                                     |
+| mail                     | n.邮件  v.邮寄                               |
+| athlete                  | n.运动员                                     |
+| opinion                  | n.意见，看法                                 |
+| black                    | n.黑人                                       |
+| desert                   | n.沙漠  v.抛弃                               |
+| cucumber                 | n.黄瓜                                       |
+| dioxide                  | n.二氧化物                                   |
+| oxygen                   | n.氧                                         |
+| happily                  | adv.开心地                                   |
+| look out                 | 留意，注意；小心                                   |
+| perhaps                  | adv.或许，可能                               |
