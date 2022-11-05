@@ -150,3 +150,72 @@
 | happily                  | adv.开心地                                   |
 | look out                 | 留意，注意；小心                                   |
 | perhaps                  | adv.或许，可能                               |
+| colour                        | n.颜色|
+| thermostat                   | n.调节器      |
+| off-line                     | adj.离线的    |
+| limbic                       | adj.边缘的，边缘叶的  |
+| nightmare                    | n.噩梦|
+| high and low culture         | 雅俗文学      |
+| launch                       | v.发起，发射  |
+| as we all know               | 众所周知      |
+| Shakespeare                  | n.莎士比亚    |
+| playgoer                     | n.戏迷        |
+| playgoing                    | n.看戏        |
+| event                        | n.事件，活动  |
+| wing                         | n.侧厅        |
+| cock                         | n.公鸡        |
+| cocktail                     | n.鸡尾酒      |
+| sonar                        | n.声纳        |
+| nose                         | n.鼻子        |
+| maid                     | n.女仆|
+| go to church             | 做礼拜|
+| hire                     | v.雇佣|
+| class                    | n.社会等级；课堂                             |
+| bias                     | n.偏见   v.（使有）偏见，偏袒                |
+| biased                   | adj.有偏见的                                 |
+| complain                 | v.抱怨|
+| complaint                | n.抱怨|
+| gender                   | n.性别|
+| so-called                | adj.所谓的                                   |
+| then                     | adv.当时；然后                               |
+| after all                | 毕竟  |
+| investment               | n.投资|
+| venture                  | v/n.冒险|
+| venture investment       | 风险投资|
+| infrastructure           | n.基础设施                                   |
+| canteen                  | n.食堂|
+| trend                    | n.趋势|
+| tend to                  | 往往  |
+| curiously                | adv.奇妙的是                                 |
+| preach                   | v.宣扬|
+| finding                  | n.发现|
+| editorship               | n.编辑职位                                   |
+| pressured                | adj.有压力的                                 |
+| demand                   | v/n.需求，要求                               |
+| merger                   | v.合并，使结合|
+| megamerger               | n.巨型合并                                   |
+| process                  | n.过程   v.处理，加工                        |
+| hyperactive              | adj.异常活跃的                               |
+| for instance             | 例如  |
+| phone                    | v.打电话|
+| at random                | 随机地|
+| but                      | 而是  |
+| eyesight                   | n.视力            |
+| infer                      | v.推断            |
+| strategy                   | n.策略            |
+| human                      | adj.人的，人类的  |
+| calm                     | adj.平静的                                   |
+| labor                    | n.劳动，劳动力                               |
+| laborsaving              | adj.节省劳动力的                             |
+| factory                  | n.工厂|
+| hum                      | v.嗡嗡叫|
+| thanks to                | 由于  |
+| while                    | conj.虽然，尽管                              |
+| optimism                 | n.乐观|
+| pessimistic              | adj.悲观的                                   |
+| transistor               | n.晶体管|
+| circuit                  | n.电路|
+| cling-film               | n.保鲜膜|
+| sunny                    | adj.晴朗的                                   |
+| peaceful                 | adj.和平的，宁静的；爱好和平的                               |
+| suddenly                 | adv.突然|

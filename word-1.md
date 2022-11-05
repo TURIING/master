@@ -1334,6 +1334,7 @@
 | humiliate                  | v.羞辱，使丢脸    |
 | humiliated                 | adj.被羞辱的      |
 | humiliation                | n.羞辱，屈辱      |
+| exert                      | v.尽力            |
 | populate                   | v.居住于，遍布于，移居于  |
 | populace                   | n.平民，大众      |
 | popular                    | adj.大众的，流行的，受欢迎的        |
@@ -4878,7 +4879,6 @@
 | myth                          | n.神话；错误观念|
 | mythical                      | adj.神话般的                                 |
 | in the light of               | 根据，鉴于|
-
 | mourn                         | v.悼念，哀悼|
 | luxuriant                     | adj.茂盛的，茂密的；丰富的（想象力）|
 | surround                      | v.环绕，围绕|
@@ -4959,55 +4959,3 @@
 | plot                          | v.密谋，策划|
 | brisk                         | adj.轻快的（步伐）；生气勃勃的|
 | agreeable                     | adj.同意的；令人愉快的|
-| supplier                      | n.供应商|
-| justified                     | adj.合法的，合理的|
-| announce                      | v.宣布|
-| renege                        | v.违背，食言|
-| precisely                     | adv.准确地，精确地；恰恰，恰好地|
-| constitutionality             | n.合宪性，合法性|
-| surface                       | n.表面   v.显露|
-| sale                          | n.销售，出售|
-| go alone                      | 独行，单独行动；同意|
-| regulatory                    | adj.监督的，管理的|
-| keep one's word               | 遵守诺言，守信用|
-| beside the point              | 无关紧要，无意义|
-| precedent-setting             | adj.开创先例的|
-| pledge                        | n.誓言，诺言；保证    v.发誓；保证|
-| keep in mind                  | 牢记|
-| defy                          | v.蔑视；挑衅|
-| absurd                        | adj.荒唐的，荒谬的|
-| hell                          | n.地狱|
-| accommodate                   | v.容纳，为...提供住宿；适应（新变化）|
-| accommodation                 | n.住所|
-| adhere                        | v.粘附，粘着；坚持；遵守|
-| administer                    | v.管理；执行，实施|
-| adore                         | v.崇拜，爱慕|
-| advent                        | n.到来，出现|
-| aerial                        | adj.空气的，空中的；航空的|
-| aeroplane                     | n.飞机|
-| afterward                     | adv.后来|
-| alarm                         | n.警报；惊恐    v.使惊恐|
-| alive                         | adj.活着的；活泼的|
-| alongside                     | prep.在...旁边；与...一起；以及|
-| amiable                       | adj.和蔼可亲的|
-| amuse                         | v.娱乐，消遣|
-| amusement                     | n.娱乐，消遣|
-| set out to do                 | 开始着手做...|
-| in action                     | 奏效，起作用|
-| critique                      | v&n.批评，评论|
-| lameness                      | n.缺陷，缺点|
-| spot-on                       | adj.准确的，正确的|
-| billboard                     | n.广告牌|
-| convince                      | v.说服|
-| convincingly                  | adv.令人信服地，有说服力地|
-| take a page from              | 效仿，借鉴|
-| stay away from                | 远离|
-| glare                         | v.怒视    n.闪耀，刺眼|
-| glaring                       | adj.明显的|
-| probe                         | v.调查，探究|
-| long-lasting                  | adj.持续的，持久的；长期的|
-| exert                         | v.运用，施加，产生            |
-| exert oneself                 | 努力，尽力|
-| steer                         | v.驾驶；操纵，控制；引导，指导|
-| virtuous                      | adj.品德高尚的|
-| engineer                      | n.工程师   v.设计，策划|
